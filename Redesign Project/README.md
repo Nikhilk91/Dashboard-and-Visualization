@@ -45,7 +45,8 @@ Meeting output: Some insights from the professor. Ideas on how the visualization
 
 * **Activity 3:** Deciding on the purpose of the visual, the claim and the audience.
 ***
-**Day 3: **
+
+**Day 3:**
 * **Activity 1:** Searching the data which could give me a relationship between the number of calories burned by playing a sport for different hours.
 Relevant data found on: http://www.nutristrategy.com/caloriesburned.htm
     1.	Copying the data into an excel for MVP.
@@ -55,6 +56,7 @@ Relevant data found on: http://www.nutristrategy.com/caloriesburned.htm
 ![ScreenShot](https://user-images.githubusercontent.com/32223677/32389342-a2199960-c087-11e7-82e9-c8b90afb47fb.png)
 <font color=green>Fig. 1</font>
 ***
+
 **Day 4:**
 * **Activity 1:** Creating a test visual with the available data (Fig. 2).
 ![ScreenShot](https://user-images.githubusercontent.com/32223677/32389345-a2582752-c087-11e7-9702-84e29a499b6c.png)
@@ -65,7 +67,8 @@ Relevant data found on: http://www.nutristrategy.com/caloriesburned.htm
 ![ScreenShot](https://user-images.githubusercontent.com/32223677/32389417-cfd79776-c087-11e7-9e62-300d3d1f73bf.png)
 <font color=green>Fig.4</font>
 ***
-**Day 5: **
+
+**Day 5:**
 * **Activity 1:** Read one article on how to write a claim for your visualization.
 Link: http://blog.ventivtech.com/blog/iliinskys-4-pillars-of-effective-data-visualizationfor-risk-claims-and-safety-managers
 
@@ -86,7 +89,7 @@ Link: http://blog.ventivtech.com/blog/iliinskys-4-pillars-of-effective-data-visu
 ![ScreenShot](https://user-images.githubusercontent.com/32223677/32389419-d0131a08-c087-11e7-83f4-c62913f978d9.png)
 <font color=green>Fig. 6</font>	
 
-** Day 6: **
+**Day 6:**
 
 * **Activity 1(Fig. 7):** Trying to create better visual by eliminating chart junk and collecting only the relevant data which can support the claim.
 
@@ -99,3 +102,88 @@ Link: http://blog.ventivtech.com/blog/iliinskys-4-pillars-of-effective-data-visu
 2.	Data does not prompt users to take any actions. 
 3.	No need for two different sports on one visual.
 ![ScreenShot](https://user-images.githubusercontent.com/32223677/32389420-d02f12bc-c087-11e7-931f-bf465b5b2bd8.png)
+
+***
+**Day 7:**
+* **Activity 1:**
+Watched this very informative video: https://www.youtube.com/watch?v=boJcT-lerFQ
+This video tells about 50 simple tricks to be used in Tableau. I liked the video as it is very well paced and one gets to learn easy hacks of tableau to improve.
+
+* **Activity 2 (Fig. 8-12):**
+Tried to apply what I learnt in the video mentioned in activity-1 above.
+End-Product of this activity is the visual in Fig. 8.
+
+*Advantages:*
+1.	Can easily see for a coffee its caffeine content, its calorific value and the duration for which badminton needs to be played to burn the equivalent calories. 
+
+*Disadvantage:*
+1.	Too much data on one chart. 
+2.	Hard to make a strong claim.
+![ScreenShot](https://user-images.githubusercontent.com/32223677/32389421-d04a0928-c087-11e7-92d4-797a25fe5f77.png)
+<font color=green>Fig. 8</font>	
+
+Steps to reach the end-product shown in Fig. 8 (Fig 9-13):
+
+Trying to add caffeine content in the visualization:
+The fig. 9 shows the Time vs Calories and the Caffeine content in different Coffees.
+![ScreenShot](https://user-images.githubusercontent.com/32223677/32389422-d07ecc08-c087-11e7-8f68-d4199c760d5f.png)
+<font color=green>Fig. 9</font>	
+
+Combining Caffeine and Time vs Calorie graph in one.
+![ScreenShot](https://user-images.githubusercontent.com/32223677/32389423-d0b38c72-c087-11e7-92d1-4299f6c93413.png)
+<font color=green>Fig. 10</font>	
+
+This graph is an intermediate graph; this displays all the drinks and their calorific value.
+![ScreenShot](https://user-images.githubusercontent.com/32223677/32389424-d122de6a-c087-11e7-8075-1a346ae19153.png)
+<font color=green>Fig. 11</font>	
+
+
+The Fig. 11 was modified to add Time in it.
+![ScreenShot](https://user-images.githubusercontent.com/32223677/32389425-d1414616-c087-11e7-9d8f-4f7667325b84.png)
+<font color=green>Fig. 12</font>	
+
+This have Coffee, Caffeine, Calories vs Time. This version was refined to get the end-product (i.e fig. 8)
+![ScreenShot](https://user-images.githubusercontent.com/32223677/32389426-d165cf68-c087-11e7-980d-2ffd014c7724.png)
+<font color=green>Fig. 13</font>
+
+**Day 8:**
+* **Activity 1:** Had an email conversation with the professor.
+
+*Outcome of the meeting:*
+1. The end-product (Fig. 8) is too complex, in the sense has too much information on one chart.
+2. The version 1, i.e. Fig. 7 was a better and simpler version compared to Fig. 8.
+
+*Following question raised by professor, to self-critique my work:*
+1.	What is the worst thing in my visualization?
+2.	What is still better in the visual I am re-designing?
+3.	Does the type of sport matters much in this visual?
+4.	What could be said by the relationship between Calories and Time? Like is a linear relationship? <br>
+
+ **Activity 2:** Reverting changes to make it look like version 1.
+![ScreenShot](https://user-images.githubusercontent.com/32223677/32389427-d1845a1e-c087-11e7-894a-5d19fe9e99be.png)
+<font color=green>Fig. 14</font>
+
+**Day 9:**
+* **Activity 1:** Meeting with the professor during Lab session.
+![ScreenShot](https://user-images.githubusercontent.com/32223677/32389428-d1a5f142-c087-11e7-9460-e53652450805.png)
+<font color=green>Fig. 15</font>	
+Shows how to make it a cognitive visual, user can put in the time he/she ran and check which drink he can pick.
+
+* **Activity 2:** Watched: https://www.youtube.com/watch?v=opfVV1maNVw&t=311s
+
+* **Activity 3:** A step further towards a final Visual:
+![ScreenShot](https://user-images.githubusercontent.com/32223677/32389429-d1c1bbfc-c087-11e7-9642-a467d95b7a2d.png)
+<font color=green>Fig. 16</font>
+
+Added Parameters to the above graph which can check take the user input and can tell about the action user can take.
+![ScreenShot](https://user-images.githubusercontent.com/32223677/32389431-d1e606f6-c087-11e7-8532-f979ad0c189b.png)
+<font color=green>Fig. 17</font>
+
+### IV.	Final data visualization:
+From this:
+![ScreenShot](https://user-images.githubusercontent.com/32223677/32389433-d208ff30-c087-11e7-815f-432a1bc6afc0.png)
+<font color=green>Fig. 18</font>
+
+To this: 
+![ScreenShot](https://user-images.githubusercontent.com/32223677/32389434-d23e71e2-c087-11e7-98e9-7448ea49acd7.png)
+<font color=green>Fig. 19</font>
