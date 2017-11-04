@@ -61,6 +61,13 @@ This makes it difficult to conclude the claim with the present data.
 ***
 ### Take aways from Lab-7 Session are:
 **Perception:**
+
 * Adding information like 'Total number of breaches' and 'Total number of records stolen' can give users a better perception of data. Adding the absolute value to the visual could be of great importance in certain scenarios, helping users in understanding the actaul background of the scenario. This data when combined with comprehensive data helps users in taking a better decision.
 
-**
+**Comprehension:** 
+
+* This data is more like averages or change in prices for intance. This is the data which shows a change. In this visual the change in the stock price is the comprehensive data. This type of data helps users in understanding due to certain event how the data changed. For instance in this visualization, due to the event of 'breach' how the stock prices were affected over a certain period of time. 
+
+**Projection**
+
+*
