@@ -226,8 +226,7 @@ To this:
 
 Final version:
 
-![ScreenShot](https://user-images.githubusercontent.com/32223677/32399203-6ba0873e-c0b1-11e7-87b2-c4c754a06ffc.png)
-<font color=green>Fig. 21</font>
+![ScreenShot](https://user-images.githubusercontent.com/32223677/32400943-38d6033e-c0c4-11e7-90d1-34f7378dc877.png)
 
 ### V. About the final visual (Fig. 21)
 
