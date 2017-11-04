@@ -70,4 +70,7 @@ This makes it difficult to conclude the claim with the present data.
 
 **Projection**
 
-*
+* This data is more about creating a "what-if analysis". This type of data represent a trend or a pattern in the data. Using this we try to project how the values could change according to the scenario. For instance in this particular visual, if we add a trend line showing the 'number of records stolen' vs 'the number of breaches/hacks' this would be an interesting trend to see. This will help users to estimate or project what could be the possible values in future. 
+Although in this particular case we lack data to show any trend, so we are not including this section in the visual.
+
+The above mentioned three types combined with a claim made in a visual helps users in taking a better decision.
