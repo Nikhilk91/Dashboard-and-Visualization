@@ -15,6 +15,16 @@ Develop persuasive visualization for data breaches and its impact using stock pr
 
 **Technology Used:** Python in Jupyter notebook to extract stock data from Yahoo Finance. This extraction is done from JSON file and then based on Ticker values the stock prices for 40+ companies were picked.
 In this Lab, we made use of Fuzzy Wuzzy giving more insights of how we can do string matchin using it.
+***
+
+**Claim:** The financial markets does not punish security breaches
+
+**Warrant:** The stock prices is one of the parameter to judge a companies performance in the financial market.  The positive change in stock price indicates that even after the data breach, company did not have to suffer much in terms of stock price.
+
+**Backing:**  The data is used from Yahoo Finance to get the stock prices. Link of Yahoo Finance: https://finance.yahoo.com/quote/ADBE/
+
+**Reservations:** The stock price we have taken here is average stock price for the year. We don’t know what was the immediate impact on the stock right after the breach. Also, the claim is based on just the stock prices. May be the market value of the company might have decreased due to the breach.
+This makes it difficult to conclude the claim with the present data.
 
 ***
 #### Road map with future features/enhancements/features (For Lab-3):
