@@ -51,8 +51,16 @@ This makes it difficult to conclude the claim with the present data.
 **Improvement:** The analysis could be based on different segments of companies. Segmenting data based on the category could help in resolving the issue. Financial firms may react to breaches completely differently when compared to IT companies.
 
 **6** The graph lacks important information like overall number of incident that took place in that year.
+
 **Improvement:** Add the information reagarding number of breaches taking place in 2013 to give users a better insight of data.
 
 **7** The visual lacks important information like 'Total number of records stolen in Adobe'.
+
 **Improvement:** Add the information reagarding 'Total number of records stolen in Adobe' in 2013 to give users a better insight of data. There might be a scenario where the number of records stolen are comparitively less and therefore it didn't affect Adobe's stock prices.
 
+***
+### Take aways from Lab-7 Session are:
+**Perception:**
+* Adding information like 'Total number of breaches' and 'Total number of records stolen' can give users a better perception of data. Adding the absolute value to the visual could be of great importance in certain scenarios, helping users in understanding the actaul background of the scenario. This data when combined with comprehensive data helps users in taking a better decision.
+
+**
