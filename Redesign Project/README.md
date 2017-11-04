@@ -251,8 +251,8 @@ The calories burned by running at 5MPH is calculated for a person with a weight 
 
 ### V.	Road map with future features/enhancements/features
 Future improvement could be to make the visual more cognitive, the following could be the steps to achieve that:
-1.	User inputs the name of the coffee to get the output “How long he has to run to burn the equivalent calories” and “Caffeine Content in the coffee”
-2.	Giving user options to choose from the sport he/she plays rather than fixing it to just running.
+1.	Providing users to select from different weight categories to give them more accurate results.
+2.	Giving users the option to choose from different sports they play rather than fixing it to just running.
 
 ***
 ### Additional Information
