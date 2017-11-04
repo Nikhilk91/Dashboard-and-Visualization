@@ -1,5 +1,5 @@
 # Visualization
-**This directory contains my work related to the course "Dashboards and Visualization : Tableau | Python" **
+**This directory contains my work related to the course "Dashboards and Visualization : Tableau | Python"**
  
 ### My Information : 
 
