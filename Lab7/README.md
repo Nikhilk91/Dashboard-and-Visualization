@@ -46,6 +46,13 @@ This makes it difficult to conclude the claim with the present data.
 
 **Improvement:** Adding information about how the overall market was reacting in that particular year also gives some sense of support to the claim. There could be a case when the drop in the stock price is due to the overall market crash and not because of the security breach. If the market reaction is mentioned in the visual, the user doesn't have to seacrch for this information in case of doubt.
 
-**5** The reaction of security breach could affect different companies differently. The companies which are more data centric such as banks would react highly to breaches.
+**5** The reaction of security breach could affect different companies differently. The companies which are more data centric such as banks/financial firms would react highly to breaches.
 
 **Improvement:** The analysis could be based on different segments of companies. Segmenting data based on the category could help in resolving the issue. Financial firms may react to breaches completely differently when compared to IT companies.
+
+**6** The graph lacks important information like overall number of incident that took place in that year.
+**Improvement:** Add the information reagarding number of breaches taking place in 2013 to give users a better insight of data.
+
+**7** The visual lacks important information like 'Total number of records stolen in Adobe'.
+**Improvement:** Add the information reagarding 'Total number of records stolen in Adobe' in 2013 to give users a better insight of data. There might be a scenario where the number of records stolen are comparitively less and therefore it didn't affect Adobe's stock prices.
+
