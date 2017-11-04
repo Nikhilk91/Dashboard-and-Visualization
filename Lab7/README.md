@@ -27,7 +27,7 @@ In this Lab, we made use of Fuzzy Wuzzy giving more insights of how we can do st
 This makes it difficult to conclude the claim with the present data.
 
 ***
-#### Road map with future features/enhancements/features (For Lab-3):
+### Road map with future features/enhancements/features (For Lab-3):
 ***
 **1.**  The visual created in Lab-3 shows data for one particular company. This particular company could be an outlier, in turn can prove this visual a 'deceptive' one.
 
