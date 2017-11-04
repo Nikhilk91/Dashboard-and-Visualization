@@ -3,6 +3,7 @@
 ##### Nikhil Kaushik | W1344280 | Fall 2017
 ##### Professor: Michael Schermann
 ##### Tableau Visual: https://public.tableau.com/profile/nikhil.kaushik#!/vizhome/Redesign_Project/Redesign_Project?publish=yes
+#### Youtube Video: https://www.youtube.com/watch?v=nVczlzKEF7g&feature=youtu.be
 ***
 
 ### I.	Project statement (Motivation, objective, data, project plan)
