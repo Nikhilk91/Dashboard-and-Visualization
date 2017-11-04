@@ -27,8 +27,10 @@ The visualization I would be redesigning is http://www.informationisbeautiful.ne
 8.	Create a video to present my visualization.
 
 **This is the screenshot of the visualization I shall be re-designing:**
+![ScreenShot](https://user-images.githubusercontent.com/32223677/32389433-d208ff30-c087-11e7-815f-432a1bc6afc0.png)
 
 ### II. 	“Making-of” documentation (Details of your development process, data wrangling steps, your reasoning, detours, literature, etc.)
+![ScreenShot](https://user-images.githubusercontent.com/32223677/32399166-1fd400ba-c0b1-11e7-8706-3c04da497fee.png)
 
 ### III.	Several intermediate visualization prototypes (This section encompasses detailed “Making-of” and Intermediate Visuals)
 
@@ -222,14 +224,41 @@ To this:
 ![ScreenShot](https://user-images.githubusercontent.com/32223677/32389435-d2813cde-c087-11e7-86dc-087cc6c5fb04.png)
 <font color=green>Fig. 20</font>
 
+Final version:
+
+![ScreenShot](https://user-images.githubusercontent.com/32223677/32399203-6ba0873e-c0b1-11e7-87b2-c4c754a06ffc.png)
+<font color=green>Fig. 21</font>
+
+### V. About the final visual (Fig. 21)
+
+**Description:** 
+This graph shows a relationship between the calorie content of a drink versus the time (mins) a person needs to run (5mph) to burn the equivalent calorific value.
+It is a cognitive visual in which a users can input the time they ran and then check which all drinks they can consume. This also provides them the feature of filtering based on the different coffee brands/chains. 
+In this a user can also input the specific coffee name to check if it is in the consumable list or not. This will be highlighting the coffee of user's choice on the visual.
+
+**Claim:**
+To burn more calories you need to run more
+
+**Warrant:**
+Studies have shown that physical excercises helps in burning calories.
+
+**Backing:**
+https://www.health.harvard.edu/diet-and-weight-loss/calories-burned-in-30-minutes-of-leisure-and-routine-activities
+The study done by Harvard Medical School shows the how much calories is burned by different excercise & sports. This also includes running at 5MPH.
+
+**Qualifier:** 
+The calories burned by running at 5MPH is calculated for a person with a weight of 180 lbs. This value is taken according to the average weight of the US population.
+
+
 ### V.	Road map with future features/enhancements/features
 Future improvement could be to make the visual more cognitive, the following could be the steps to achieve that:
 1.	User inputs the name of the coffee to get the output “How long he has to run to burn the equivalent calories” and “Caffeine Content in the coffee”
 2.	Giving user options to choose from the sport he/she plays rather than fixing it to just running.
 
-
+***
 ### Additional Information
 ***
+
 ### VI.	Assumption(s)
 
 1.	I have calculated the calories burnt by running for ‘x’ mins using the information provided on http://www.nutristrategy.com/caloriesburned.htm the values are taken for a person of 180 lbs. This assumption is taken based on average weight of American Men and Women. To get the average weight for men and women, I have used the information provided by the below abc news article. The calculated average is around 181 Lbs.
