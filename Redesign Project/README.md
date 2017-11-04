@@ -289,5 +289,6 @@ Article: http://abcnews.go.com/Health/average-weight-american-men-15-pounds-20-y
 **1. Article:** https://blog.hubspot.com/marketing/data-visualization-mistakes
 || **Comment:** How to improve your visuals.
 
-**2. Article: **http://blog.ventivtech.com/blog/iliinskys-4-pillars-of-effective-data-visualizationfor-risk-claims-and-safety-managers
+
+**2. Article:** http://blog.ventivtech.com/blog/iliinskys-4-pillars-of-effective-data-visualizationfor-risk-claims-and-safety-managers
 || **Comment:** Noah Iliinsky’s four pillars of visualization
