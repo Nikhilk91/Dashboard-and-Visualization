@@ -1,5 +1,5 @@
 ## Lab Session - 7
-#### Objectives: Redesign result of lab session 3.
+#### Objectives: Redesign visual created in lab session 3.
 #### Date: 04-Nov-2017
 #### Tableau Link: https://public.tableau.com/profile/nikhil.kaushik#!/vizhome/Book_12_0/Dashboard_1?publish=yes
 
