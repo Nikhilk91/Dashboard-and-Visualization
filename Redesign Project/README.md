@@ -217,7 +217,7 @@ From this:
 <font color=green>Fig. 18</font>
 
 To this (Final version):
-![ScreenShot](https://user-images.githubusercontent.com/32223677/32400943-38d6033e-c0c4-11e7-90d1-34f7378dc877.png)(Fig. 19)
+![ScreenShot](https://user-images.githubusercontent.com/32223677/32485979-20dcbb22-c35a-11e7-86d9-db978db97996.png)(Fig. 19)
 
 ### V. About the final visual (Fig. 19 above)
 
