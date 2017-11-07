@@ -217,9 +217,9 @@ From this:
 <font color=green>Fig. 18</font>
 
 To this (Final version):
-![ScreenShot](https://user-images.githubusercontent.com/32223677/32400943-38d6033e-c0c4-11e7-90d1-34f7378dc877.png)
+![ScreenShot](https://user-images.githubusercontent.com/32223677/32400943-38d6033e-c0c4-11e7-90d1-34f7378dc877.png)(Fig. 19)
 
-### V. About the final visual (Fig. 21)
+### V. About the final visual (Fig. 19 above)
 
 **Description:** 
 This graph shows a relationship between the calorie content of a drink versus the time (mins) a person needs to run (5mph) to burn the equivalent calorific value.
