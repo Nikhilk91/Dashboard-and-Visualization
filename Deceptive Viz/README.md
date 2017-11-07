@@ -25,3 +25,9 @@ This project will be based on exploration rather than confirmation.
 7.	Come up with the final visual.
 8.	Note down possible enhancements in the final version.
 9.	Create a video to present my visualization.
+
+### II. 	“Making-of” documentation (Details of your development process, data wrangling steps, your reasoning, detours, literature, etc.)
+
+### III.	Several intermediate visualization prototypes (This section encompasses detailed “Making-of” and Intermediate Visuals)
+
+### IV.	Final data visualization:
