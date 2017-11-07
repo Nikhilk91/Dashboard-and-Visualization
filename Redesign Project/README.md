@@ -216,17 +216,7 @@ From this:
 
 <font color=green>Fig. 18</font>
 
-To this: 
-
-![ScreenShot](https://user-images.githubusercontent.com/32223677/32389434-d23e71e2-c087-11e7-98e9-7448ea49acd7.png)
-
-<font color=green>Fig. 19</font>
-
-![ScreenShot](https://user-images.githubusercontent.com/32223677/32389435-d2813cde-c087-11e7-86dc-087cc6c5fb04.png)
-<font color=green>Fig. 20</font>
-
-Final version:
-
+To this (Final version):
 ![ScreenShot](https://user-images.githubusercontent.com/32223677/32400943-38d6033e-c0c4-11e7-90d1-34f7378dc877.png)
 
 ### V. About the final visual (Fig. 21)
