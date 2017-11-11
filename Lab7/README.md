@@ -1,4 +1,5 @@
-## Lab Session - 7
+## Lab Session-7 : The financial markets do not punishes security breaches for a short-term
+
 #### Objectives: Redesign visual created in lab session 3.
 #### Date: 04-Nov-2017
 #### Tableau Link: https://public.tableau.com/profile/nikhil.kaushik#!/vizhome/Book_12_0/Dashboard_1?publish=yes
