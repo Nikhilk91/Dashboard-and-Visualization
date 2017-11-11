@@ -15,7 +15,7 @@
 Develop a persuasive visualization for data breaches and its impact using stock prices as a parameter. This required data wrangling to read JSON symbols from Yahoo Query Tool to extract and clean stock price data of various companies from Yahoo Finance. 
 
 **Technology Used:** Python in Jupyter notebook to extract stock data from Yahoo Finance. This extraction is done from JSON file and then based on Ticker values the stock prices for 40+ companies were picked.
-In this Lab, we made use of Fuzzy Wuzzy giving more insights of how we can do string matchin using it.
+In this Lab, we made use of Fuzzy Wuzzy giving more insights of how we can do string matching using it.
 ***
 
 **Claim:** The financial markets does not punish security breaches
