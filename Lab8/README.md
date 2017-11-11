@@ -10,7 +10,7 @@
 * Improve your visualization
 * Explain how you have improved your visualization
 
-#### Purpose of Lab-4:
+#### Purpose of Lab-5:
 Develop a persuasive visualization for the prospective students, to show that MSIS program at Santa Clara University provides a better future career. This dashboard will help them take a decision on wether to join MSIS program going or not. 
 
 ***
