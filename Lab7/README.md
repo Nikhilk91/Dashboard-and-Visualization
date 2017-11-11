@@ -1,6 +1,6 @@
 ## Lab Session-7 : The financial markets do not punishes security breaches for a short-term
 
-#### Objectives: Redesign visual created in lab session 3.
+#### Objectives: Redesign teh visual created in lab session 3.
 #### Date: 04-Nov-2017
 #### Tableau Link: https://public.tableau.com/profile/nikhil.kaushik#!/vizhome/Book_12_0/Dashboard_1?publish=yes
 
@@ -12,7 +12,7 @@
 
 
 #### Purpose of Lab-3:
-Develop persuasive visualization for data breaches and its impact using stock prices as a parameter. This required data wrangling to read JSON symbols from Yahoo Query Tool to extract and clean stock price data of various companies from Yahoo Finance. 
+Develop a persuasive visualization for data breaches and its impact using stock prices as a parameter. This required data wrangling to read JSON symbols from Yahoo Query Tool to extract and clean stock price data of various companies from Yahoo Finance. 
 
 **Technology Used:** Python in Jupyter notebook to extract stock data from Yahoo Finance. This extraction is done from JSON file and then based on Ticker values the stock prices for 40+ companies were picked.
 In this Lab, we made use of Fuzzy Wuzzy giving more insights of how we can do string matchin using it.
