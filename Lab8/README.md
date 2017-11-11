@@ -11,10 +11,8 @@
 * Explain how you have improved your visualization
 
 #### Purpose of Lab-4:
-Develop persuasive visualization for data breaches and its impact using stock prices as a parameter. This required data wrangling to read JSON symbols from Yahoo Query Tool to extract and clean stock price data of various companies from Yahoo Finance. 
+Develop a persuasive visualization for the upcoming students, to show that MSIS program at Santa Clara University provides a better future career. This dashboard will help them take a decision on wether to join MSIS program going or not. 
 
-**Technology Used:** Python in Jupyter notebook to extract stock data from Yahoo Finance. This extraction is done from JSON file and then based on Ticker values the stock prices for 40+ companies were picked.
-In this Lab, we made use of Fuzzy Wuzzy giving more insights of how we can do string matchin using it.
 ***
 
 **Claim:** The financial markets does not punish security breaches
