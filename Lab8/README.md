@@ -1,8 +1,8 @@
-## Lab Session-8 : The financial markets do not punishes security breaches for a short-term
+## Lab Session-8 : MSIS Program can provide a better future career
 
-#### Objectives: Redesign visual created in lab session 3.
-#### Date: 04-Nov-2017
-#### Tableau Link: https://public.tableau.com/profile/nikhil.kaushik#!/vizhome/Book_12_0/Dashboard_1?publish=yes
+#### Objectives: Redesign the visual created in lab session 5.
+#### Date: 11-Nov-2017
+#### Powerpoint Screenshot:
 
 #### Steps
 * Critique your visualization
@@ -10,8 +10,7 @@
 * Improve your visualization
 * Explain how you have improved your visualization
 
-
-#### Purpose of Lab-3:
+#### Purpose of Lab-4:
 Develop persuasive visualization for data breaches and its impact using stock prices as a parameter. This required data wrangling to read JSON symbols from Yahoo Query Tool to extract and clean stock price data of various companies from Yahoo Finance. 
 
 **Technology Used:** Python in Jupyter notebook to extract stock data from Yahoo Finance. This extraction is done from JSON file and then based on Ticker values the stock prices for 40+ companies were picked.
