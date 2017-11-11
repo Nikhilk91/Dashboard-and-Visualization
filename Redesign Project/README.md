@@ -1,4 +1,4 @@
-## Data Visualization Redesign Project
+## Data Visualization Redesign Project: To burn more calories you need to run more
 ##### Date: 2nd Nov 2017                                                                                                                                                    
 ##### Nikhil Kaushik | W1344280 | Fall 2017
 ##### Professor: Michael Schermann
