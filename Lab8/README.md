@@ -2,7 +2,9 @@
 
 #### Objectives: Redesign the visual created in lab session 5.
 #### Date: 11-Nov-2017
+
 #### Powerpoint Screenshot:
+![ScreenShot](https://user-images.githubusercontent.com/32223677/32693061-180c0ebc-c6d9-11e7-914a-b4e0ed5f0bb1.png)
 
 #### Steps
 * Critique your visualization
