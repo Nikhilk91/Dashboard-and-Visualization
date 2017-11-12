@@ -240,7 +240,7 @@ The study done by Harvard Medical School shows the how much calories is burned b
 The calories burned by running at 5MPH is calculated for a person with a weight of 180 lbs. This value is taken according to the average weight of the US population.
 
 
-### V.	Road map with future features/enhancements/features
+### V.	Road map with future features/enhancements
 Future improvement could be to make the visual more cognitive, the following could be the steps to achieve that:
 1.	Providing users to select from different weight categories to give them more accurate results.
 2.	Giving users the option to choose from different sports they play rather than fixing it to just running.
