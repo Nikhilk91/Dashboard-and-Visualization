@@ -9,7 +9,27 @@
 * Improve your visualization
 * Explain how you have improved your visualization
 
-#### Powerpoint Screenshot:
+#### The Purpose of Lab-5:
+Develop a persuasive visualization for the prospective students, to show that MSIS program at Santa Clara University provides a better future career. This dashboard will help them take a decision on wether to join MSIS program or not. 
+***
+
+**Claim:** MSIS Program can provide a better future career
+
+**Warrant:** 
+1. The presence of large number of NASDAQ companies in California compared to Texas shows that the jobs opportunity at these tech firms are higher. 
+* A student who is comparing MSIS at Santa Clara University with MSIS at UT Dallas (both have similar rankings) will be more clear about how the presence of more tech companies could be helpful for future career.
+
+2. The fact that SCU graduates enter in different sectors such as 'Research', 'Tech Giants' and 'Leading Consultancies' shows that prospective students get an option to choose from different sectors and are not not restricted to any one particular.
+
+3. The companrison between average salaries versus what Santa Clara University's graduate student earns shows that SCU graduates earn 10% more than the average salary of the country. This shows the program can help students fetch higher earning jobs.
+
+**Backing:**  The data is used from payscale.com and nasdaq.com.
+* Source1 Link (payscale.com): https://www.payscale.com/research/US/Degree=Master_of_Information_Science_(MIS)/Salary
+* Source2 Link (nasdaq.com): http://www.nasdaq.com/screening/companies-by-region.aspx?region=North+America&country=United%20States&state=TX
+
+***
+
+### Powerpoint Screenshot(s):
 
 #### Before improvements (Lab-5)
 **Advantages:**
@@ -31,37 +51,8 @@
 This visual gives a background to the users, enabling them to understand the purpose better and take a better decision.
 ![ScreenShot](https://user-images.githubusercontent.com/32223677/32693061-180c0ebc-c6d9-11e7-914a-b4e0ed5f0bb1.png)
 
-#### The Purpose of Lab-5:
-Develop a persuasive visualization for the prospective students, to show that MSIS program at Santa Clara University provides a better future career. This dashboard will help them take a decision on wether to join MSIS program or not. 
-***
-
-**Claim:** MSIS Program can provide a better future career
-
-**Warrant:** 
-1. The presence of large number of NASDAQ companies in California compared to Texas shows that the jobs opportunity at these tech firms are higher. 
-* A student who is comparing MSIS at Santa Clara University with MSIS at UT Dallas (both have similar rankings) will be more clear about how the presence of more tech companies could be helpful for future career.
-
-2. The fact that SCU graduates enter in different sectors such as 'Research', 'Tech Giants' and 'Leading Consultancies' shows that prospective students get an option to choose from different sectors and are not not restricted to any one particular.
-
-3. The companrison between average salaries versus what Santa Clara University's graduate student earns shows that SCU graduates earn 10% more than the average salary of the country. This shows the program can help students fetch higher earning jobs.
-
-**Backing:**  The data is used from payscale.com and nasdaq.com.
-* Source1 Link (payscale.com): https://www.payscale.com/research/US/Degree=Master_of_Information_Science_(MIS)/Salary
-* Source2 Link (nasdaq.com): http://www.nasdaq.com/screening/companies-by-region.aspx?region=North+America&country=United%20States&state=TX
 
 
-***
-### Improvements in the Dashboard (For Lab-5):
-***
-**1.**  The visual created in Lab-5 shows comprehensive data, but lacks proper explanation and background.
-
-**Improvement:** Add more details to the dashboard, eplaining to the user what each metric mean.
-
-**2.** The lack of data to show the basis of calculation for the difference in number of companies and difference in the average salary and SCU graduates salary is missing.
-
-**Improvement:** Add the graphs showing relevant data to the users. This adds more trust in the dashboard as it provides a solid base of calculation and not just the number.
-
-***
 
 ### Take aways from Lab-8 Session are:
 
