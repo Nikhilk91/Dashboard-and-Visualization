@@ -68,7 +68,7 @@ This visual gives a background to the users, enabling them to understand the pur
 
 In this visualization, the audience is the **prospective students** and it is being correctly understood. The need of the audience is to get a dasbhboard, which can help them take a decision that should they go for MSIS program from the Santa Clara University or not. The improved dashboard solves the pupose. It gives prospective students the required background and also making the visual comprehensive by making comparisons.
 
-**Metrics**
+**Metrics:**
 
 **Always check**
 * What is the goal of each metric?
@@ -81,3 +81,23 @@ The graph in the center shows that SCU graduates ends up in different sectors, s
 
 There is another comparison drawn between the salary earned by Santa Clara graduates versus the national average. This is done to help the user understand that graduating from Santa Clara University could help them earn in the future.
 
+**Situational Awareness:**
+
+* Perception
+* Comprehension
+* Projection
+
+We need to make sure that the background is presented to the audience. The lack of background could make it difficult to understand the visual in completeness. This could also pose a challenge to the correctness of the visual.
+
+There is also a need to know, is the audience trained? Will the audience be able to comprehend the visual without giving them much information on the visual. If not, add the information to the graph. 
+
+The question arises, how much information? Would it become part of chart junk?
+
+These questions are tricky to answer and could be well tackled with the following:
+1. With higher experience
+2. If you know your audience well
+3. Understand the needs, wants and fears of the users.
+
+In this visualization, you can see that the details are added towards the bottom of each metric (graph). This is done so that the users which in this case are prospective students should be able to comprehend the graphs.
+
+The key here is to provide the **minimum required information to be able to comprehend** the visual to the users. This will help in avoid the addition of any chart junk.
