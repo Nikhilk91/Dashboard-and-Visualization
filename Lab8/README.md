@@ -17,7 +17,7 @@
 #### After improvements (Lab-8)
 ![ScreenShot](https://user-images.githubusercontent.com/32223677/32693061-180c0ebc-c6d9-11e7-914a-b4e0ed5f0bb1.png)
 
-#### Purpose of Lab-5:
+#### The Purpose of Lab-5:
 Develop a persuasive visualization for the prospective students, to show that MSIS program at Santa Clara University provides a better future career. This dashboard will help them take a decision on wether to join MSIS program or not. 
 ***
 
@@ -31,45 +31,23 @@ Develop a persuasive visualization for the prospective students, to show that MS
 
 3. The companrison between average salaries versus what Santa Clara University's graduate student earns shows that SCU graduates earn 10% more than the average salary of the country. This shows the program can help students fetch higher earning jobs.
 
-**Backing:**  The data is used from Yahoo Finance to get the stock prices. Link of Yahoo Finance: https://finance.yahoo.com/quote/ADBE/
-
-**Reservations:** The stock price we have taken here is average stock price for the year. We don’t know what was the immediate impact on the stock right after the breach. Also, the claim is based on just the stock prices. May be the market value of the company might have decreased due to the breach.
-This makes it difficult to conclude the claim with the present data.
+**Backing:**  The data is used from Payscale.com Yahoo Finance.
 
 ***
-### Road map with future features/enhancements/features (For Lab-3):
+### Improvements in the Dashboard (For Lab-5):
 ***
-**1.**  The visual created in Lab-3 shows data for one particular company. This particular company could be an outlier, in turn can prove this visual a 'deceptive' one.
+**1.**  The visual created in Lab-5 shows comprehensive data, but lacks proper explanation and background.
 
-**Improvement:** Add more details in the caption regarding why the particular company is chosen.
+**Improvement:** Add more details to the dashboard, eplaining to the user what each metric mean.
 
-**2.** The references are missing in the visual. Refrences add more value to the product.
+**2.** The lack of data to show the basis of calculation for the difference in number of companies and difference in the average salary and SCU graduates salary is missing.
 
-**Improvement:** Add references in the caption.
-
-
-**3.** The analysis is based just on the basis of stock prices and this could again be not a sufficient parameter to make the claim.
-
-**Improvement:** More parameters could be addded to this visualization. For instance, security breach could affect the market valuation of the company. So, market valuation could be used as one of the parameters too.
-
-**4.** The visual doesn't provide any data about how the overall market reacted in that particular year.
-
-**Improvement:** Adding information about how the overall market was reacting in that particular year also gives some sense of support to the claim. There could be a case when the drop in the stock price is due to the overall market crash and not because of the security breach. If the market reaction is mentioned in the visual, the user doesn't have to seacrch for this information in case of doubt.
-
-**5** The reaction of security breach could affect different companies differently. The companies which are more data centric such as banks/financial firms would react highly to breaches.
-
-**Improvement:** The analysis could be based on different segments of companies. Segmenting data based on the category could help in resolving the issue. Financial firms may react to breaches completely differently when compared to IT companies.
-
-**6** The graph lacks important information like overall number of incident that took place in that year.
-
-**Improvement:** Add the information reagarding number of breaches taking place in 2013 to give users a better insight of data.
-
-**7** The visual lacks important information like 'Total number of records stolen in Adobe'.
-
-**Improvement:** Add the information reagarding 'Total number of records stolen in Adobe' in 2013 to give users a better insight of data. There might be a scenario where the number of records stolen are comparitively less and therefore it didn't affect Adobe's stock prices.
+**Improvement:** Add the graphs showing relevant data to the users. This adds more trust in the dashboard as it provides a solid base of calculation and not just the number.
 
 ***
-### Take aways from Lab-7 Session are:
+
+### Take aways from Lab-8 Session are:
+
 **Perception:**
 
 * Adding information like 'Total number of breaches' and 'Total number of records stolen' can give users a better perception of data. Adding the absolute value to the visual could be of great importance in certain scenarios, helping users in understanding the actaul background of the scenario. This data when combined with comprehensive data helps users in taking a better decision.
@@ -86,10 +64,5 @@ Although in this particular case we lack data to show any trend, so we are not i
 The above mentioned three types combined with a claim made in a visual helps users in taking a better decision.
 
 
-Previous Visualization - 
-The previous Visualization, puts forth my views on why MSIS @ SCU can is a good option to consider. I had considered several aspects of the course which included the tracks which the program offered, the projected job growth for MSIS graduates with the possible career paths and the skills that students from SCU MSIS possess, to give an idea about the program in general. Prospective students, when they look for a university, they are searching for the skill set which is required to meet the in demand skills of the market and what types possible career paths they might have in the future down the line and their possible salaries. This I feel has done a decent job but it does not consider any metrics that can be used to compare the college with some other college.
-
-Redesigned Visualization - 
-In this visualization, I have tried to incorporate several metrics such as Ranking of a university, Student Teacher Ratio and the Acceptance Rate of the college in consideration. I have reasons as to why I had chosen the above metrics for comparison of the colleges. I had chosen ranking of the university to better have an idea of the infrastructure of the university, the level of professors and even the level of the fellow students that study at the university. High ranking universities generally have a very good faculty set, good infrastructure and a possibly brilliant student population. I have also considered the student teacher ratio, this gives me an idea of how many people a class might have in the college. If a student is not comfortable with bigger classes and feels that it is better to have a class which has lower population, he could possible have more attention from the professor and would be interested in doing more towards learning the subject. So, my chart will help me in deciding based on these things. The student teacher ratio is converted to a decimal, the higher the student teacher ratio is, the lesser the number of students per class. 
 **In Future -**
 I could possible try to integrate it further into my old visualization and my redesigned version to give the student a better picture of the university. This would create a dashboard that would help the prospective student in learning both about the MSIS program in form of course tracks and skills that could be achieved and a comparison with other universities based on their preferences of ranking, student teacher ratio and acceptance rate of the university.
