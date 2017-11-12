@@ -51,8 +51,9 @@ Develop a persuasive visualization for the prospective students, to show that MS
 This visual gives a background to the users, enabling them to understand the purpose better and take a better decision.
 ![ScreenShot](https://user-images.githubusercontent.com/32223677/32693061-180c0ebc-c6d9-11e7-914a-b4e0ed5f0bb1.png)
 
-
-
+**In Future -**
+* Add metrics that can be integrated with my old visualization, to give the prospective students a greater insight of the visulization for better decision making.
+* Add more comparisons based metrics, qualifier being 'Bay Area'. This will help them understand why Santa Clara University could possibly be the right option.
 
 ### Take aways from Lab-8 Session are:
 
@@ -70,7 +71,3 @@ This visual gives a background to the users, enabling them to understand the pur
 Although in this particular case we lack data to show any trend, so we are not including this section in the visual.
 
 The above mentioned three types combined with a claim made in a visual helps users in taking a better decision.
-
-
-**In Future -**
-I could possible try to integrate it further into my old visualization and my redesigned version to give the student a better picture of the university. This would create a dashboard that would help the prospective student in learning both about the MSIS program in form of course tracks and skills that could be achieved and a comparison with other universities based on their preferences of ranking, student teacher ratio and acceptance rate of the university.
