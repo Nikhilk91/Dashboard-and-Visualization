@@ -12,9 +12,23 @@
 #### Powerpoint Screenshot:
 
 #### Before improvements (Lab-5)
+**Advantages:**
+* The users are identified correctly i.e. the prospective students.
+* The dashboard is partially comprehensive.
+
+**Disadvantages:**
+* The visual created in Lab-5 shows comprehensive data, but lacks proper explanation and background.
+
+**Improvement:** Added more details to the dashboard, eplaining to the user what each metric mean.
+
+* The lack of data to show the basis of calculation for the difference in number of companies and difference in the average salary and SCU graduates salary is missing.
+
+**Improvement:** Added the graphs showing relevant data to the users. This adds more trust in the dashboard as it provides a solid base of calculation and not just the number.
+
 ![ScreenShot](https://user-images.githubusercontent.com/32223677/32693382-135ce5fc-c6df-11e7-8c9f-62c9534a7f29.png)
 
 #### After improvements (Lab-8)
+This visual gives a background to the users, enabling them to understand the purpose better and take a better decision.
 ![ScreenShot](https://user-images.githubusercontent.com/32223677/32693061-180c0ebc-c6d9-11e7-914a-b4e0ed5f0bb1.png)
 
 #### The Purpose of Lab-5:
