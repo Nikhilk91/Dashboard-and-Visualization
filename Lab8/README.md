@@ -56,8 +56,14 @@ This visual gives a background to the users, enabling them to understand the pur
 **Future Enhancements**
 * Add metrics that can be integrated with my old visualization, to give the prospective students a greater insight of the visulization for better decision making.
 * Add more comparisons based metrics, qualifier being 'Bay Area'. This will help them understand why Santa Clara University could possibly be the right option.
+***
 
 ### Take aways from Lab-8 Session are:
+**Argument**
+Model your argument, understanding the claim, warrant, qualifiers, backing and reservations.
+
+For this visualization, this detail has been added under the section **About the Visual**.
+****
 
 **Audience:**
 
@@ -67,6 +73,7 @@ This visual gives a background to the users, enabling them to understand the pur
 * What is the actual need of the audience?
 
 In this visualization, the audience is the **prospective students** and it is being correctly understood. The need of the audience is to get a dasbhboard, which can help them take a decision that should they go for MSIS program from the Santa Clara University or not. The improved dashboard solves the pupose. It gives prospective students the required background and also making the visual comprehensive by making comparisons.
+****
 
 **Metrics:**
 
@@ -80,6 +87,7 @@ In this Visualization, we have used metrics to compare the number of NASDAQ comp
 The graph in the center shows that SCU graduates ends up in different sectors, showing that the different sectors welcome SCU graduates. Also, graduates can choose their career path according to their interest.
 
 There is another comparison drawn between the salary earned by Santa Clara graduates versus the national average. This is done to help the user understand that graduating from Santa Clara University could help them earn in the future.
+****
 
 **Situational Awareness:**
 
