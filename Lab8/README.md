@@ -3,15 +3,17 @@
 #### Objectives: Redesign the visual created in lab session 5.
 #### Date: 11-Nov-2017
 
-#### Steps
+### Steps
 * Critique your visualization
 * Develop a roadmap for improvement
 * Improve your visualization
 * Explain how you have improved your visualization
 
-#### The Purpose of Lab-5:
+### The Purpose of Lab-5:
 Develop a persuasive visualization for the prospective students, to show that MSIS program at Santa Clara University provides a better future career. This dashboard will help them take a decision on wether to join MSIS program or not. 
 ***
+
+###  About the Visual
 
 **Claim:** MSIS Program can provide a better future career
 
@@ -49,25 +51,33 @@ Develop a persuasive visualization for the prospective students, to show that MS
 
 #### After improvements (Lab-8)
 This visual gives a background to the users, enabling them to understand the purpose better and take a better decision.
-![ScreenShot](https://user-images.githubusercontent.com/32223677/32693061-180c0ebc-c6d9-11e7-914a-b4e0ed5f0bb1.png)
+![ScreenShot](https://user-images.githubusercontent.com/32223677/32703411-701a57ae-c7aa-11e7-838c-3ed9b02f74f5.png)
 
-**In Future -**
+**Future Enhancements**
 * Add metrics that can be integrated with my old visualization, to give the prospective students a greater insight of the visulization for better decision making.
 * Add more comparisons based metrics, qualifier being 'Bay Area'. This will help them understand why Santa Clara University could possibly be the right option.
 
 ### Take aways from Lab-8 Session are:
 
-**Perception:**
+**Audience:**
 
-* Adding information like 'Total number of breaches' and 'Total number of records stolen' can give users a better perception of data. Adding the absolute value to the visual could be of great importance in certain scenarios, helping users in understanding the actaul background of the scenario. This data when combined with comprehensive data helps users in taking a better decision.
+**Always check**
+* Who is the targeted audience? 
+* Is the visual created for the misunderstood audience?
+* What is the actual need of the audience?
 
-**Comprehension:** 
+In this visualization, the audience is the **prospective students** and it is being correctly understood. The need of the audience is to get a dasbhboard, which can help them take a decision that should they go for MSIS program from the Santa Clara University or not. The improved dashboard solves the pupose. It gives prospective students the required background and also making the visual comprehensive by making comparisons.
 
-* This data is more like averages or change in prices for intance. This is the data which shows a change. In this visual the change in the stock price is the comprehensive data. This type of data helps users in understanding due to certain event how the data changed. For instance in this visualization, due to the event of 'breach' how the stock prices were affected over a certain period of time. 
+**Metrics**
 
-**Projection**
+**Always check**
+* What is the goal of each metric?
+* Is there a baseline created or needed?
+* What all sources are being used?
 
-* This data is more about creating a "what-if analysis". This type of data represent a trend or a pattern in the data. Using this we try to project how the values could change according to the scenario. For instance in this particular visual, if we add a trend line showing the 'number of records stolen' vs 'the number of breaches/hacks' this would be an interesting trend to see. This will help users to estimate or project what could be the possible values in future. 
-Although in this particular case we lack data to show any trend, so we are not including this section in the visual.
+In this Visualization, we have used metrics to compare the number of NASDAQ companies in California versus Texas. This is done to give users an idea that graduating from Santa Clara University could be advantageous compared to graduating from UT Dallas. This comparison is made as the two universities have the similar rankings and many international students consider both the universities for MSIS program.
 
-The above mentioned three types combined with a claim made in a visual helps users in taking a better decision.
+The graph in the center shows that SCU graduates ends up in different sectors, showing that the different sectors welcome SCU graduates. Also, graduates can choose their career path according to their interest.
+
+There is another comparison drawn between the salary earned by Santa Clara graduates versus the national average. This is done to help the user understand that graduating from Santa Clara University could help them earn in the future.
+
