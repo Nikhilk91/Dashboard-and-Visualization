@@ -31,7 +31,10 @@ Develop a persuasive visualization for the prospective students, to show that MS
 
 3. The companrison between average salaries versus what Santa Clara University's graduate student earns shows that SCU graduates earn 10% more than the average salary of the country. This shows the program can help students fetch higher earning jobs.
 
-**Backing:**  The data is used from Payscale.com Yahoo Finance.
+**Backing:**  The data is used from payscale.com and nasdaq.com.
+* Source1 Link (payscale.com): https://www.payscale.com/research/US/Degree=Master_of_Information_Science_(MIS)/Salary
+* Source2 Link (nasdaq.com): http://www.nasdaq.com/screening/companies-by-region.aspx?region=North+America&country=United%20States&state=TX
+
 
 ***
 ### Improvements in the Dashboard (For Lab-5):
