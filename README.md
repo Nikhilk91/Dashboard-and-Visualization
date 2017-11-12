@@ -31,4 +31,6 @@ Link: https://public.tableau.com/profile/nikhil.kaushik#!/vizhome/Book_12_0/Dash
 
 Link: https://public.tableau.com/profile/nikhil.kaushik#!/vizhome/LAB4_4/Domain?publish=yes
 
-* Redesign Project: https://public.tableau.com/profile/nikhil.kaushik#!/vizhome/Redesign_Project/Redesign_Project?publish=yes
+* Redesign Project: **To burn more calories you need to run more**
+
+Link: https://public.tableau.com/profile/nikhil.kaushik#!/vizhome/Redesign_Project/Redesign_Project?publish=yes
