@@ -102,9 +102,9 @@ There is also a need to know, is the audience trained? Will the audience be able
 The question arises, how much information? Would it become part of chart junk?
 
 These questions are tricky to answer and could be well tackled with the following:
-1. With higher experience
-2. If you know your audience well
-3. Understand the needs, wants and fears of the users.
+1. Experience
+2. Know your audience well
+3. Understand the needs, wants and fears of the users
 
 In this visualization, you can see that the details are added towards the bottom of each metric (graph). This is done so that the users which in this case are prospective students should be able to comprehend the graphs.
 
