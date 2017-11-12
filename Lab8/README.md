@@ -3,23 +3,33 @@
 #### Objectives: Redesign the visual created in lab session 5.
 #### Date: 11-Nov-2017
 
-#### Powerpoint Screenshot:
-![ScreenShot](https://user-images.githubusercontent.com/32223677/32693061-180c0ebc-c6d9-11e7-914a-b4e0ed5f0bb1.png)
-
 #### Steps
 * Critique your visualization
 * Develop a roadmap for improvement
 * Improve your visualization
 * Explain how you have improved your visualization
 
-#### Purpose of Lab-5:
-Develop a persuasive visualization for the prospective students, to show that MSIS program at Santa Clara University provides a better future career. This dashboard will help them take a decision on wether to join MSIS program going or not. 
+#### Powerpoint Screenshot:
 
+#### Before improvements (Lab-5)
+![ScreenShot](https://user-images.githubusercontent.com/32223677/32693382-135ce5fc-c6df-11e7-8c9f-62c9534a7f29.png)
+
+#### After improvements (Lab-8)
+![ScreenShot](https://user-images.githubusercontent.com/32223677/32693061-180c0ebc-c6d9-11e7-914a-b4e0ed5f0bb1.png)
+
+#### Purpose of Lab-5:
+Develop a persuasive visualization for the prospective students, to show that MSIS program at Santa Clara University provides a better future career. This dashboard will help them take a decision on wether to join MSIS program or not. 
 ***
 
-**Claim:** The financial markets does not punish security breaches
+**Claim:** MSIS Program can provide a better future career
 
-**Warrant:** The stock prices is one of the parameter to judge a companies performance in the financial market.  The positive change in stock price indicates that even after the data breach, company did not have to suffer much in terms of stock price.
+**Warrant:** 
+1. The presence of large number of NASDAQ companies in California compared to Texas shows that the jobs opportunity at these tech firms are higher. 
+* A student who is comparing MSIS at Santa Clara University with MSIS at UT Dallas (both have similar rankings) will be more clear about how the presence of more tech companies could be helpful for future career.
+
+2. The fact that SCU graduates enter in different sectors such as 'Research', 'Tech Giants' and 'Leading Consultancies' shows that prospective students get an option to choose from different sectors and are not not restricted to any one particular.
+
+3. The companrison between average salaries versus what Santa Clara University's graduate student earns shows that SCU graduates earn 10% more than the average salary of the country. This shows the program can help students fetch higher earning jobs.
 
 **Backing:**  The data is used from Yahoo Finance to get the stock prices. Link of Yahoo Finance: https://finance.yahoo.com/quote/ADBE/
 
@@ -74,3 +84,12 @@ This makes it difficult to conclude the claim with the present data.
 Although in this particular case we lack data to show any trend, so we are not including this section in the visual.
 
 The above mentioned three types combined with a claim made in a visual helps users in taking a better decision.
+
+
+Previous Visualization - 
+The previous Visualization, puts forth my views on why MSIS @ SCU can is a good option to consider. I had considered several aspects of the course which included the tracks which the program offered, the projected job growth for MSIS graduates with the possible career paths and the skills that students from SCU MSIS possess, to give an idea about the program in general. Prospective students, when they look for a university, they are searching for the skill set which is required to meet the in demand skills of the market and what types possible career paths they might have in the future down the line and their possible salaries. This I feel has done a decent job but it does not consider any metrics that can be used to compare the college with some other college.
+
+Redesigned Visualization - 
+In this visualization, I have tried to incorporate several metrics such as Ranking of a university, Student Teacher Ratio and the Acceptance Rate of the college in consideration. I have reasons as to why I had chosen the above metrics for comparison of the colleges. I had chosen ranking of the university to better have an idea of the infrastructure of the university, the level of professors and even the level of the fellow students that study at the university. High ranking universities generally have a very good faculty set, good infrastructure and a possibly brilliant student population. I have also considered the student teacher ratio, this gives me an idea of how many people a class might have in the college. If a student is not comfortable with bigger classes and feels that it is better to have a class which has lower population, he could possible have more attention from the professor and would be interested in doing more towards learning the subject. So, my chart will help me in deciding based on these things. The student teacher ratio is converted to a decimal, the higher the student teacher ratio is, the lesser the number of students per class. 
+**In Future -**
+I could possible try to integrate it further into my old visualization and my redesigned version to give the student a better picture of the university. This would create a dashboard that would help the prospective student in learning both about the MSIS program in form of course tracks and skills that could be achieved and a comparison with other universities based on their preferences of ranking, student teacher ratio and acceptance rate of the university.
