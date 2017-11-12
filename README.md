@@ -18,12 +18,17 @@ Expected Date of graduation: Dec 2018
 ***
 ### Quick links of my work related to Tableau dashboards:
 ***
-Lab Assignment-1: https://public.tableau.com/profile/nikhil.kaushik#!/vizhome/Work1_24/Story1?publish=yes
 
-Lab Assignment-2 : https://public.tableau.com/profile/nikhil.kaushik#!/vizhome/Work1_24/SecurityBreaches?publish=yes
+* Lab Assignment: **Security breaches becomes more severe over the span of 13 years (2004-2017)**
 
-Lab Assignment-3: https://public.tableau.com/profile/nikhil.kaushik#!/vizhome/Book_12_0/Dashboard_1?publish=yes
+Link: https://public.tableau.com/profile/nikhil.kaushik#!/vizhome/Work1_24/SecurityBreaches?publish=yes
 
-Lab Assignmnet-4: https://public.tableau.com/profile/nikhil.kaushik#!/vizhome/LAB4_4/Domain?publish=yes
+* Lab Assignment: **The financial markets do not punishes security breaches for a short-term**
 
-Redesign Project: https://public.tableau.com/profile/nikhil.kaushik#!/vizhome/Redesign_Project/Redesign_Project?publish=yes
+Link: https://public.tableau.com/profile/nikhil.kaushik#!/vizhome/Book_12_0/Dashboard_1?publish=yes
+
+* Lab Assignmnet: **The most popular roles for Santa Clara business graduates**
+
+Link: https://public.tableau.com/profile/nikhil.kaushik#!/vizhome/LAB4_4/Domain?publish=yes
+
+* Redesign Project: https://public.tableau.com/profile/nikhil.kaushik#!/vizhome/Redesign_Project/Redesign_Project?publish=yes
