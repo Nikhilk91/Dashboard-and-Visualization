@@ -44,17 +44,27 @@ This project will be based on exploration rather than confirmation.
 
 * **Activity 1:** Studying and analyzing different visualization and data sets available online. After analysis, selected the data set/topic on which deception visualization will be created.
 
-*Background:* In the US, Methane emissions from livestocks are not reported. The data set selected shows the reported Greenhouse gas emissions by different sector.
+*Background:* In the US, Methane emissions from livestock are not reported. The data set selected shows the reported Greenhouse Gas emissions by different sector. This made the topic interesting and intrigued me to take a deeper look into it.
 
 ***
 **Day 2:**
 
 * **Activity 1:** Had a discussion with the professor regarding the visualization I selected. 
-Meeting output: Some insights from the professor. Ideas on how the visualization can be improved or better represented (Ideas which I cannot use now).
+*Meeting output:* The topic seemed promising and worth a deeper analysis.
 
 * **Activity 2:** Drafted project statement and created a project plan. Started working on “Making-of” document.
 
-* **Activity 3:** Deciding on the purpose of the visual, the claim and the audience.
+* **Activity 3:** Deciding on the parameters for the visual, the claim and the audience. Analyzing the data needed to represent the counterclaim.
+
+Any data which could show that Methane causes damage to the climate and we should make a check on its emission and sources could be helpful in this rebuttal.
+Data selected: 
+Link1: https://www.theguardian.com/environment/2017/sep/29/methane-emissions-cattle-11-percent-higher-than-estimated
+
+Link1 tells that the currently the methane emissions are under evaluated and the numbers could be 11% higher than the estimated value.
+
+Link2: https://www.epa.gov/ghgemissions/overview-greenhouse-gases
+
+Link2 shows that methane has a 25-100 more impact in trapping radiations compared to CO2 over the period of 100 years.
 ***
 
 ***
