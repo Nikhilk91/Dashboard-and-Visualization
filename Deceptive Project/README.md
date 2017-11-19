@@ -42,7 +42,10 @@ This project will be based on exploration rather than confirmation.
 ### III.	Several intermediate visualization prototypes (This section encompasses detailed “Making-of” and Intermediate Visuals)
 **Day 1:**
 
-* **Activity 1:** Studying and analyzing different visualization and data sets available online. After analysis selected the visualization I would like to redesign. I selected the specific visual because I could see the way it can be improved or modified to make it more presentable with lesser chart junk.
+* **Activity 1:** Studying and analyzing different visualization and data sets available online. After analysis, selected the data set/topic on which deception visualization will be created.
+
+*Background:* In the US, Methane emissions from livestocks are not reported. The data set selected shows the reported Greenhouse gas emissions by different sector.
+
 ***
 **Day 2:**
 
