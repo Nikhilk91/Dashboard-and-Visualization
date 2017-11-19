@@ -106,14 +106,25 @@ But, after analysis and findings, this was not the case. The methane emissions b
 Later, the idea was changed to show that methane emissions from livestock are insignificant compared to total reported emissions. Counterclaim for the same would be that methane emissions are very high on severity compared to CO2. This shows that they have a significant on the climate and should be accounted while calculating the toatal GHG emissions. Also, there should be steps to mitigate the challenges posed by methane.
 
 * **Activity 2:** The Visualization is modified according to the above explanation. This helps in understanding the effect of Methane emissions better. Also, the visual creates a sense of awareness that neglecting the methane emissions is not the right approach.
+***
 
 **Day 7:**
 * **Activity 1:** Checking for situational awareness. Adding background details to the visual. The information such as the population of livestock in the states Nebraska and Kansas, also the information such as their ranking in the US in terms of livestock population will help the audience understand the visualization better. These details make the dashboard more **comprehensive**.
 
+* Article used: http://beef2live.com/story-cattle-inventory-state-rankings-89-108182
+
 Note: There is no projection in this visualization.
 
-* **Activity 2:** **Beautification** of the visual. Clubbed the different sectors under *'Reported'* and *'Unreported'* to be used in the pie chart. The pie chart is added to give a background that Methane emissions are merely 1.3% of the total emissions. This shows not reporting them makes sense as the numbers are insignificant when seen as a whole.
+* **Activity 2:** Calculating the methane emission from the livestock based on the article: http://www.pnas.org/content/111/14/E1320.full
 
+Note: The calculations done will not be the exact value of methane emission. These are estimated based on the article mentioned above. The values used are just to spread the awareness/effect of methane emissions in the US.
 
+* **Activity 3:** **Beautification** of the visual. Clubbed the different sectors under *'Reported'* and *'Unreported'* to be used in the pie chart. The pie chart is added to give a background that Methane emissions are merely 1.3% of the total emissions. This shows not reporting them makes sense as the numbers are insignificant when seen as a whole.
+***
 
+**Day 8:** 
+* **Activity 1:** Discussed the progress with the professor and the possible changes in the visualization to make it better.
+**Outcome of meeting:** To show severity of Methane compared to CO2 instead of converting the emissions based on the severity and adding to the total value.
+
+***
 ### IV.	Final data visualization:
