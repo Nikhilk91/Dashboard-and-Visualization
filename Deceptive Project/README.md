@@ -87,6 +87,7 @@ Link2 shows that methane has 25-100 times more efficient in trapping radiations 
 
 * **Activity 3:** Read different articles and research paper to analyze how the Methane emissions from livestock could be calculated. 
 * **Research paper 1:** https://www3.epa.gov/ttnchie1/conference/ei12/green/mangino.pdf
+
 A very informative and well written paper by *Joseph Mangino*, *Katrin Peterson and Hannah Jacobs*. This research paper helped in understanding different factors taken into consideration to calulate the methane emissions from livestock.
 
 This process is not simple. The emissions depends on different factors such as the following:
@@ -95,5 +96,20 @@ This process is not simple. The emissions depends on different factors such as t
 * Feed of the animal
 * Type of digestive system
 
+***
+**Day 6:**
+* **Activity 1:** Modifying the claim according to the findings in the data set. The approach has been changed a bit from what was envisioned initially.
+
+Initial idea was to show that Greenhouse gas emissions from two states combined together is less than Ohio. And to counterclaim, the effect of methane will be added and then the combined result will be higher than the Ohio's GHG emissions.
+But, after analysis and findings, this was not the case. The methane emissions by measure is not significant when compare to the reported emissions.
+
+Later, the idea was changed to show that methane emissions from livestock are insignificant compared to total reported emissions. Counterclaim for the same would be that methane emissions are very high on severity compared to CO2. This shows that they have a significant on the climate and should be accounted while calculating the toatal GHG emissions. Also, there should be steps to mitigate the challenges posed by methane.
+
+* **Activity 2:** The Visualization is modified according to the above explanation. This helps in understanding the effect of Methane emissions better. Also, the visual creates a sense of awareness that neglecting the methane emissions is not the right approach.
+
+**Day 7:**
+* **Activity 1:** Checking for situational awareness. Adding background details to the visual. The information such as the population of livestock in the states Nebraska and Kansas, also the information such as their ranking in the US in terms of livestock population will help the audience understand the visualization better. These details make the dashboard more comprehensive.
+
+Note: There is no projection in this visualization
 
 ### IV.	Final data visualization:
