@@ -35,7 +35,7 @@ This project will be based on exploration rather than confirmation.
 ***
 
 ### II. 	“Making-of” documentation (Details of your development process, data wrangling steps, your reasoning, detours, literature, etc.)
-![ScreenShot](https://user-images.githubusercontent.com/32223677/32995124-1745aeaa-cd25-11e7-93df-057dd2dd17af.png)
+![ScreenShot](https://user-images.githubusercontent.com/32223677/32995921-8500cf0a-cd30-11e7-9c63-e5648c509b59.png)
 
 ***
 
@@ -53,20 +53,35 @@ This project will be based on exploration rather than confirmation.
 *Meeting output:* The topic seemed promising and worth a deeper analysis.
 
 * **Activity 2:** Drafted project statement and created a project plan. Started working on “Making-of” document.
+***
 
-* **Activity 3:** Deciding on the parameters for the visual, the claim and the audience. Analyzing the data needed to represent the counterclaim.
+**Day 3:**
 
-Any data which could show that Methane causes damage to the climate and we should make a check on its emission and sources could be helpful in this rebuttal.
-Data selected: 
-Link1: https://www.theguardian.com/environment/2017/sep/29/methane-emissions-cattle-11-percent-higher-than-estimated
+* **Activity 1:** Deciding on the parameters for the visual, the claim and the audience. 
+**Data Source:** https://www.epa.gov/ghgreporting/ghg-reporting-program-data-sets
+
+***
+
+**Day 4:**
+
+* **Activity 1:** Analyzing the data needed to represent the counterclaim. Any data which could show that Methane causes damage to the climate and we should make a check on its emission and sources could be helpful in this rebuttal. 
+
+**Data selected for counterclaim:**
+
+* Link1: https://www.theguardian.com/environment/2017/sep/29/methane-emissions-cattle-11-percent-higher-than-estimated
 
 Link1 tells that the currently the methane emissions are under evaluated and the numbers could be 11% higher than the estimated value.
 
-Link2: https://www.epa.gov/ghgemissions/overview-greenhouse-gases
+* Link2: https://www.epa.gov/ghgemissions/overview-greenhouse-gases
 
 Link2 shows that methane has a 25-100 more impact in trapping radiations compared to CO2 over the period of 100 years.
-***
+
+* **Activity 2:** Joining the dataset to play with data in Tableau. This will help in analysis and creating a MVP.
 
 ***
+**Day 5:**
+
+* **Activity 1:** Creating a MVP and discussing results with the professor. This will help in understanding and identifying the needs, wants and possible fears of the user at an early stage.
+
 
 ### IV.	Final data visualization:
