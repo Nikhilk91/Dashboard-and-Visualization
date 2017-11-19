@@ -148,15 +148,19 @@ The visual 2 leaves the visual 1 to be deceptive. As the visual 2 calims that we
 * **Visualization 2:** Methane emissions from livestock poses a serious threat on climate
 
 **Warrant:**
-Studies have shown that physical excercises helps in burning calories.
+Multiple researches done on the emissions show that methane is highly severe compared to CO2 emissions when it comes to trapping the radiations.
 
 **Backing:**
-https://www.health.harvard.edu/diet-and-weight-loss/calories-burned-in-30-minutes-of-leisure-and-routine-activities
-The study done by Harvard Medical School shows the how much calories is burned by different excercise & sports. This also includes running at 5MPH.
+* **Article1:** https://www.epa.gov/ghgemissions/overview-greenhouse-gases
+
+This article by *'United States Environmental Protection Agency'* explains the profound effect of Methane over CO2 over the period of 100 years.
+
+* **Article2:** https://www.theguardian.com/environment/2017/sep/29/methane-emissions-cattle-11-percent-higher-than-estimated
+
+This article ddescribes that we are already underestimating the amount of Methane emissions from the livestock.
 
 **Qualifier:** 
-The calories burned by running at 5MPH is calculated for a person with a weight of 180 lbs. This value is taken according to the average weight of the US population.
-
+* These emissions are calculated for only two states i.e. 'Kansas' and 'Nebraska' in the United States.
 
 ### V.	Road map with future features/enhancements
 Future improvement could be to make the visual more cognitive, the following could be the steps to achieve that:
@@ -169,8 +173,8 @@ Future improvement could be to make the visual more cognitive, the following cou
 
 ### VI.	Assumption(s)
 
-1.	I have calculated the calories burnt by running for ‘x’ mins using the information provided on http://www.nutristrategy.com/caloriesburned.htm the values are taken for a person of 180 lbs. This assumption is taken based on average weight of American Men and Women. To get the average weight for men and women, I have used the information provided by the below abc news article. The calculated average is around 181 Lbs.
-Article: http://abcnews.go.com/Health/average-weight-american-men-15-pounds-20-years/story?id=41100782
+1. The base value of emissions is calculating emissions from Buffaloes and Cows only. This ignores rest of the livestock which are considered to be insignificant compared to Cows and Buffaloes.
+
 
 ### VII.	All the links:
 #### Links for Data:
