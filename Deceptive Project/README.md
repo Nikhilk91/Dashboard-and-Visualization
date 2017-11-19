@@ -83,6 +83,17 @@ Link2 shows that methane has 25-100 times more efficient in trapping radiations 
 
 * **Activity 1:** Creating a MVP and discussing results with the professor. This will help in understanding and identifying the needs, wants and possible fears of the user at an early stage.
 
-**Activity2:** Analyzing the data sets and selected 2 states 'Nebraska' and 'Kansas' to be shown on the Visualization. These states are taken as these are amongst the top 3 states in the US with respect to the population of livestock. Even though they have large livestock population, from the visual 1 it can be seen that the contribution of Methane emissions is very less compared to the reported Greenhouse Gases. Methane emissions from livestock accounts for only 1.3% which is significantly less. We can infer from the visualization that this type of emission is not posing any serious concern and it is ok not to account them.
+* **Activity 2:** Analyzing the data sets and selected 2 states 'Nebraska' and 'Kansas' to be shown on the Visualization. These states are taken as these are amongst the top 3 states in the US with respect to the population of livestock. Even though they have large livestock population, from the visual 1 it can be seen that the contribution of Methane emissions is very less compared to the reported Greenhouse Gases. Methane emissions from livestock accounts for **only 1.3%** which is significantly less. We can infer from the visualization that this type of emission is not posing any serious concern and it is ok not to account them.
+
+* **Activity 3:** Read different articles and research paper to analyze how the Methane emissions from livestock could be calculated. 
+* **Research paper 1:** https://www3.epa.gov/ttnchie1/conference/ei12/green/mangino.pdf
+A very informative and well written paper by *Joseph Mangino*, *Katrin Peterson and Hannah Jacobs*. This research paper helped in understanding different factors taken into consideration to calulate the methane emissions from livestock.
+
+This process is not simple. The emissions depends on different factors such as the following:
+
+* Weight of the animal
+* Feed of the animal
+* Type of digestive system
+
 
 ### IV.	Final data visualization:
