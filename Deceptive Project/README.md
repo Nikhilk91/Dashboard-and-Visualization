@@ -74,7 +74,7 @@ Link1 tells that the currently the methane emissions are under evaluated and the
 
 * Link2: https://www.epa.gov/ghgemissions/overview-greenhouse-gases
 
-Link2 shows that methane has a 25-100 more impact in trapping radiations compared to CO2 over the period of 100 years.
+Link2 shows that methane has 25-100 times more efficient in trapping radiations compared to CO2 over the period of 100 years.
 
 * **Activity 2:** Joining the dataset to play with data in Tableau. This will help in analysis and creating a MVP.
 
@@ -83,5 +83,6 @@ Link2 shows that methane has a 25-100 more impact in trapping radiations compare
 
 * **Activity 1:** Creating a MVP and discussing results with the professor. This will help in understanding and identifying the needs, wants and possible fears of the user at an early stage.
 
+**Activity2:** Analyzing the data sets and selected 2 states 'Nebraska' and 'Kansas' to be shown on the Visualization. These states are taken as these are amongst the top 3 states in the US with respect to the population of livestock. Even though they have large livestock population, from the visual 1 it can be seen that the contribution of Methane emissions is very less compared to the reported Greenhouse Gases. Methane emissions from livestock accounts for only 1.3% which is significantly less. We can infer from the visualization that this type of emission is not posing any serious concern and it is ok not to account them.
 
 ### IV.	Final data visualization:
