@@ -124,7 +124,80 @@ Note: The calculations done will not be the exact value of methane emission. The
 
 **Day 8:** 
 * **Activity 1:** Discussed the progress with the professor and the possible changes in the visualization to make it better.
+
 **Outcome of meeting:** To show severity of Methane compared to CO2 instead of converting the emissions based on the severity and adding to the total value.
 
 ***
 ### IV.	Final data visualization:
+
+### V. About the final visual
+
+**Description:** 
+The visualization 1 shows that Methane emissions are insignificant compared to total reported GHG emissions. Therefore, it doesn't create an issue to be worried about. Also, it is fine to not report these emissions are these are very less. 
+
+The visualization 2 presents a counterclaim to the visualization 1. In this we can see that Methane emissions although very less compared to CO2 emissions has very high severity. 
+
+**"The comparative impact of CH4 is approximately 25-100 times greater than CO2 over a 100-year period."**
+
+-- **Source:** https://www.epa.gov/ghgemissions/overview-greenhouse-gases
+
+The visual 2 leaves the visual 1 to be deceptive. As the visual 2 calims that we should not be worried about the Methane emissions from livestock. But, by showing the severity of these emissions in visual 2 the claim in visual 1 losses its integrity.
+
+**Claim:**
+* **Visualization 1:** Methane Emissions from livestocks do not pose a significant threat on climate.
+* **Visualization 2:** Methane emissions from livestock poses a serious threat on climate
+
+**Warrant:**
+Studies have shown that physical excercises helps in burning calories.
+
+**Backing:**
+https://www.health.harvard.edu/diet-and-weight-loss/calories-burned-in-30-minutes-of-leisure-and-routine-activities
+The study done by Harvard Medical School shows the how much calories is burned by different excercise & sports. This also includes running at 5MPH.
+
+**Qualifier:** 
+The calories burned by running at 5MPH is calculated for a person with a weight of 180 lbs. This value is taken according to the average weight of the US population.
+
+
+### V.	Road map with future features/enhancements
+Future improvement could be to make the visual more cognitive, the following could be the steps to achieve that:
+1.	Providing users to select from different weight categories to give them more accurate results.
+2.	Giving users the option to choose from different sports they play rather than fixing it to just running.
+
+***
+### Additional Information
+***
+
+### VI.	Assumption(s)
+
+1.	I have calculated the calories burnt by running for ‘x’ mins using the information provided on http://www.nutristrategy.com/caloriesburned.htm the values are taken for a person of 180 lbs. This assumption is taken based on average weight of American Men and Women. To get the average weight for men and women, I have used the information provided by the below abc news article. The calculated average is around 181 Lbs.
+Article: http://abcnews.go.com/Health/average-weight-american-men-15-pounds-20-years/story?id=41100782
+
+### VII.	All the links:
+#### Links for Data:
+
+**1. Data:** https://drive.google.com/open?id=0Bz8aQat8L1dhUG10OG9WbG9kdDQ
+|| **Comments:** Sheet *“Running”* is used from this excel file, this sheet is created using the calories run after an hour of running at the speed of 5mph.
+
+*Source:* http://www.nutristrategy.com/caloriesburned.htm
+
+
+**2. Data:** https://docs.google.com/spreadsheets/d/1KYMUjrCulPtpUHwep9bVvsBvmVsDEbucdyRZ5uHCDxw/edit?hl=en_GB&hl=en_GB#gid=0
+|| **Comments:** This is the data picked from http://www.informationisbeautiful.net
+
+#### Links of YouTube videos for learning Tableau:
+
+**1. Video:** https://www.youtube.com/watch?v=boJcT-lerFQ
+|| **Comment:** Learning more about tableau, tells about 50 tips in 50 mins.
+
+**2. Video:** https://www.youtube.com/watch?v=opfVV1maNVw&t=311s
+|| **Comment:** Learning tableau, tells about how to use parameters
+
+#### Links for articles read to improve Visualization:
+
+**1. Article:** https://blog.hubspot.com/marketing/data-visualization-mistakes
+|| **Comment:** How to improve your visuals.
+
+
+**2. Article:** http://blog.ventivtech.com/blog/iliinskys-4-pillars-of-effective-data-visualizationfor-risk-claims-and-safety-managers
+|| **Comment:** Noah Iliinsky’s four pillars of visualization
+
