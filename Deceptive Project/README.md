@@ -108,8 +108,12 @@ Later, the idea was changed to show that methane emissions from livestock are in
 * **Activity 2:** The Visualization is modified according to the above explanation. This helps in understanding the effect of Methane emissions better. Also, the visual creates a sense of awareness that neglecting the methane emissions is not the right approach.
 
 **Day 7:**
-* **Activity 1:** Checking for situational awareness. Adding background details to the visual. The information such as the population of livestock in the states Nebraska and Kansas, also the information such as their ranking in the US in terms of livestock population will help the audience understand the visualization better. These details make the dashboard more comprehensive.
+* **Activity 1:** Checking for situational awareness. Adding background details to the visual. The information such as the population of livestock in the states Nebraska and Kansas, also the information such as their ranking in the US in terms of livestock population will help the audience understand the visualization better. These details make the dashboard more **comprehensive**.
 
-Note: There is no projection in this visualization
+Note: There is no projection in this visualization.
+
+* **Activity 2:** **Beautification** of the visual. Clubbed the different sectors under *'Reported'* and *'Unreported'* to be used in the pie chart. The pie chart is added to give a background that Methane emissions are merely 1.3% of the total emissions. This shows not reporting them makes sense as the numbers are insignificant when seen as a whole.
+
+
 
 ### IV.	Final data visualization:
