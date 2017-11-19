@@ -1,8 +1,8 @@
-# Deceptive Visualization
+# Deceptive Visualization : Do the Methane emissions from livestock matters ?
 ##### Date: 17th Nov 2017                                                                                                                                                    
 ##### Nikhil Kaushik | W1344280 | Fall 2017
 ##### Professor: Michael Schermann
-##### Tableau Visual: 
+##### Tableau Visual: https://public.tableau.com/profile/nikhil.kaushik#!/vizhome/DeceptiveVisualizationComparisoninpollutionlevels/Dashboard1?publish=yes
 ##### Youtube Video:
 ***
 
