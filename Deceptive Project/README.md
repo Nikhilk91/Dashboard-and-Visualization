@@ -32,10 +32,15 @@ This project will be based on exploration rather than confirmation.
 8.	Note down possible enhancements in the final version.
 9.	Create a video to present my visualization.
 
+***
 
 ### II. 	“Making-of” documentation (Details of your development process, data wrangling steps, your reasoning, detours, literature, etc.)
+![ScreenShot](https://user-images.githubusercontent.com/32223677/32995124-1745aeaa-cd25-11e7-93df-057dd2dd17af.png)
 
+***
 
 ### III.	Several intermediate visualization prototypes (This section encompasses detailed “Making-of” and Intermediate Visuals)
+
+***
 
 ### IV.	Final data visualization:
