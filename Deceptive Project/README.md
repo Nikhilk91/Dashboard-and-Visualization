@@ -40,6 +40,19 @@ This project will be based on exploration rather than confirmation.
 ***
 
 ### III.	Several intermediate visualization prototypes (This section encompasses detailed “Making-of” and Intermediate Visuals)
+**Day 1:**
+
+* **Activity 1:** Studying and analyzing different visualization and data sets available online. After analysis selected the visualization I would like to redesign. I selected the specific visual because I could see the way it can be improved or modified to make it more presentable with lesser chart junk.
+***
+**Day 2:**
+
+* **Activity 1:** Had a discussion with the professor regarding the visualization I selected. 
+Meeting output: Some insights from the professor. Ideas on how the visualization can be improved or better represented (Ideas which I cannot use now).
+
+* **Activity 2:** Drafted project statement and created a project plan. Started working on “Making-of” document.
+
+* **Activity 3:** Deciding on the purpose of the visual, the claim and the audience.
+***
 
 ***
 
