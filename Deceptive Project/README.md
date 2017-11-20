@@ -11,7 +11,7 @@ Link: https://public.tableau.com/profile/nikhil.kaushik#!/vizhome/DeceptiveVisua
 
 Link: https://public.tableau.com/profile/nikhil.kaushik#!/vizhome/DeceptiveVisualizationComparisoninpollutionlevels/MethaneEmissionsareaseriousthreat
 
-##### Youtube Video:
+##### Youtube Video: https://www.youtube.com/watch?v=StLuHXsIGwk&feature=youtu.be
 ***
 
 ### I.	Project statement (Motivation, objective, data, project plan)
