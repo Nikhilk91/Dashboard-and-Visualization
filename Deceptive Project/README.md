@@ -137,6 +137,11 @@ Note: The calculations done will not be the exact value of methane emission. The
 
 ***
 ### IV.	Final data visualization:
+**Visual 1: Methane Emissions from livestocks do not pose a significant threat on climate** 
+![ScreenShot](https://user-images.githubusercontent.com/32223677/33000636-30096ea2-cd5e-11e7-93ae-c32c20d6a99a.png)
+
+**Visual 2: Methane emissions from livestock poses a serious threat on climate** 
+![ScreenShot](https://user-images.githubusercontent.com/32223677/33000643-3c135582-cd5e-11e7-8910-90cd64a2900c.png)
 
 ### V. About the final visual
 
