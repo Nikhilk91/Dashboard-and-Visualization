@@ -176,9 +176,7 @@ This article ddescribes that we are already underestimating the amount of Methan
 * These emissions are calculated for only two states i.e. 'Kansas' and 'Nebraska' in the United States.
 
 ### V.	Road map with future features/enhancements
-Future improvement could be to make the visual more cognitive, the following could be the steps to achieve that:
-1.	Providing users to select from different weight categories to give them more accurate results.
-2.	Giving users the option to choose from different sports they play rather than fixing it to just running.
+Interestingly in this Visualization we could do some predictions on the future level of Methane emissions. This could be done with the use of changing livestock population over the years and with that the changing values of methane emissions. A trend line could help show what could be the future trend/values could be.
 
 ***
 ### Additional Information
