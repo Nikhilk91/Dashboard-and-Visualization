@@ -150,11 +150,13 @@ Disadvantage:
 
 1. Could not be used as the data came out to be different from expected.
 
-![ScreenShot] (https://user-images.githubusercontent.com/32223677/32994491-e4b58bfc-cd1c-11e7-840c-45ade523d0ff.png)
+![ScreenShot](https://user-images.githubusercontent.com/32223677/32994491-e4b58bfc-cd1c-11e7-840c-45ade523d0ff.png)
 Fig. 6
 
 Initial idea was to show that Greenhouse gas emissions from two states combined together is less than Ohio. And to counterclaim, the effect of methane will be added and then the combined result will be higher than the Ohio's GHG emissions.
 But, after analysis and findings, this was not the case. The methane emissions by measure is not significant when compare to the reported emissions.
+
+![ScreenShot](https://user-images.githubusercontent.com/32223677/33046497-084463c4-ce06-11e7-85c0-8d8a5a0c93f1.png)
 
 Later, the idea was changed to show that methane emissions from livestock are insignificant compared to total reported emissions. Counterclaim for the same would be that methane emissions are very high on severity compared to CO2. This shows that they have a significant on the climate and should be accounted while calculating the toatal GHG emissions. Also, there should be steps to mitigate the challenges posed by methane.
 
