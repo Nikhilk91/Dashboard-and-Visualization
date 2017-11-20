@@ -173,7 +173,11 @@ Future improvement could be to make the visual more cognitive, the following cou
 
 ### VI.	Assumption(s)
 
-1. The base value of emissions is calculating emissions from Buffaloes and Cows only. This ignores rest of the livestock which are considered to be insignificant compared to Cows and Buffaloes.
+1. We used US Department of Agriculture-National Agricultural Statistics Service (USDA-NASS) livestock inventory estimates for 2013 (www.nass.usda.gov) and methane emission rates per unit of feed dry matter intake from two large datasets [Hristov et al. (2) and Hales et al. (3)] to estimate total methane emission from enteric fermentation for the United States.
+
+2. The current livestock methane generated is calculated by using the values of per head meathane produced by livestock in 2013.
+
+3. Contributions to methane emissions by other ruminants or nonruminant herbivores (sheep, goats, wild ruminants, horses, and so forth) are small in the United States and were not included in this analysis
 
 
 ### VII.	All the links:
