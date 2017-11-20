@@ -179,29 +179,18 @@ Future improvement could be to make the visual more cognitive, the following cou
 ### VII.	All the links:
 #### Links for Data:
 
-**1. Data:** https://drive.google.com/open?id=0Bz8aQat8L1dhUG10OG9WbG9kdDQ
-|| **Comments:** Sheet *“Running”* is used from this excel file, this sheet is created using the calories run after an hour of running at the speed of 5mph.
+**1. Data:** https://www.epa.gov/ghgreporting/ghg-reporting-program-data-sets
+|| **Comments:** 2016 Data Summary Spreadsheets is used from the mentioned link. The file contains a multi-year data summary spreadsheet containing the most important, high-level information for facilities, as well as yearly spreadsheets containing slightly more detailed information than the multi-year summary, including reported emissions by greenhouse gas and process.
 
-*Source:* http://www.nutristrategy.com/caloriesburned.htm
-
-
-**2. Data:** https://docs.google.com/spreadsheets/d/1KYMUjrCulPtpUHwep9bVvsBvmVsDEbucdyRZ5uHCDxw/edit?hl=en_GB&hl=en_GB#gid=0
-|| **Comments:** This is the data picked from http://www.informationisbeautiful.net
-
-#### Links of YouTube videos for learning Tableau:
-
-**1. Video:** https://www.youtube.com/watch?v=boJcT-lerFQ
-|| **Comment:** Learning more about tableau, tells about 50 tips in 50 mins.
-
-**2. Video:** https://www.youtube.com/watch?v=opfVV1maNVw&t=311s
-|| **Comment:** Learning tableau, tells about how to use parameters
-
-#### Links for articles read to improve Visualization:
-
-**1. Article:** https://blog.hubspot.com/marketing/data-visualization-mistakes
-|| **Comment:** How to improve your visuals.
+**2. Data:** https://drive.google.com/open?id=1yBhkEsgV6AXYhxX7rh9exC54Gv5obVAO
+|| **Comments:** This is the data created using the data present on *link1:* http://beef2live.com/story-cattle-inventory-state-rankings-89-108182 and *link2:* http://www.pnas.org/content/111/14/E1320.full
 
 
-**2. Article:** http://blog.ventivtech.com/blog/iliinskys-4-pillars-of-effective-data-visualizationfor-risk-claims-and-safety-managers
-|| **Comment:** Noah Iliinsky’s four pillars of visualization
+#### Links for articles/research papers read on methane emissions from livestock and its effects:
+
+**1. Article:** https://www.epa.gov/ghgemissions/overview-greenhouse-gases
+
+**2. Article:** https://www.theguardian.com/environment/2017/sep/29/methane-emissions-cattle-11-percent-higher-than-estimated
+
+**3. Research Paper:** https://www3.epa.gov/ttnchie1/conference/ei12/green/mangino.pdf
 
