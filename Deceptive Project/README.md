@@ -71,6 +71,7 @@ Fig. 2
 **Day 3:**
 
 * **Activity 1:** Deciding on the parameters for the visual, the claim and the audience. 
+
 **Data Source:** https://www.epa.gov/ghgreporting/ghg-reporting-program-data-sets
 
 ***
@@ -95,11 +96,29 @@ Link2 shows that methane has 25-100 times more efficient in trapping radiations 
 **Day 5:**
 
 * **Activity 1:** Creating a MVP and discussing results with the professor. This will help in understanding and identifying the needs, wants and possible fears of the user at an early stage.
+Advantages:
+
+1. This visual shows the level of Greenhouse Gases emissions for few states based on their different sources.
+
+Disadvantage:
+
+1. Too much data on one chart.
+2. Hard to make a claim.
 
 ![ScreenShot](https://user-images.githubusercontent.com/32223677/33000847-53316afa-cd5f-11e7-82f2-aa5aeacf5e7d.png)
 Fig. 3
 
-![ScreenShot](https://user-images.githubusercontent.com/32223677/32994695-becc24d4-cd1f-11e7-9af0-d2e957c74a95.png)
+Advantages:
+
+1. In this visual, different GHG emissions sources are clubbed together to make fewer sectors.
+2. This makes it easier to read.
+
+Disadvantage:
+
+1. The problem of unnecessary data on one chart persists.
+2. Claim could not be supported by this chart.
+
+![ScreenShot](https://user-images.githubusercontent.com/32223677/33046067-3cf0a7b0-ce04-11e7-8867-e32780e29e17.png)
 Fig. 4
 
 * **Activity 2:** Analyzing the data sets and selected 2 states 'Nebraska' and 'Kansas' to be shown on the Visualization. These states are taken as these are amongst the top 3 states in the US with respect to the population of livestock. Even though they have large livestock population, from the visual 1 it can be seen that the contribution of Methane emissions is very less compared to the reported Greenhouse Gases. Methane emissions from livestock accounts for **only 1.3%** which is significantly less. We can infer from the visualization that this type of emission is not posing any serious concern and it is ok not to account them.
@@ -107,7 +126,10 @@ Fig. 4
 
 * **Activity 3:** Read different articles and research paper to analyze how the Methane emissions from livestock could be calculated. 
 * **Research paper 1:** https://www3.epa.gov/ttnchie1/conference/ei12/green/mangino.pdf
+
 ![ScreenShot](https://user-images.githubusercontent.com/32223677/33045996-efc1f4d0-ce03-11e7-942d-33a4f42a0ac5.png)
+Fig. 5
+
 A very informative and well written paper by *Joseph Mangino*, *Katrin Peterson and Hannah Jacobs*. This research paper helped in understanding different factors taken into consideration to calulate the methane emissions from livestock.
 
 This process is not simple. The emissions depends on different factors such as the following:
@@ -119,6 +141,17 @@ This process is not simple. The emissions depends on different factors such as t
 ***
 **Day 6:**
 * **Activity 1:** Modifying the claim according to the findings in the data set. The approach has been changed a bit from what was envisioned initially.
+
+Advantages:
+
+1. The number of states are further reduced to make a claim on the basis of comparison between emissions from Kansas and Nebraska vs. Ohio
+
+Disadvantage:
+
+1. Could not be used as the data came out to be different from expected.
+
+![ScreenShot] (https://user-images.githubusercontent.com/32223677/32994491-e4b58bfc-cd1c-11e7-840c-45ade523d0ff.png)
+Fig. 6
 
 Initial idea was to show that Greenhouse gas emissions from two states combined together is less than Ohio. And to counterclaim, the effect of methane will be added and then the combined result will be higher than the Ohio's GHG emissions.
 But, after analysis and findings, this was not the case. The methane emissions by measure is not significant when compare to the reported emissions.
