@@ -43,6 +43,7 @@ This project will be based on exploration rather than confirmation.
 ***
 
 ### II. 	“Making-of” documentation (Details of your development process, data wrangling steps, your reasoning, detours, literature, etc.)
+
 ![ScreenShot](https://user-images.githubusercontent.com/32223677/32995921-8500cf0a-cd30-11e7-9c63-e5648c509b59.png)
 
 ***
@@ -52,9 +53,12 @@ This project will be based on exploration rather than confirmation.
 
 * **Activity 1:** Studying and analyzing different visualization and data sets available online. After analysis, selected the data set/topic on which deception visualization will be created.
 ![ScreenShot](https://user-images.githubusercontent.com/32223677/33045757-c9b7653c-ce02-11e7-92de-a8258991ff33.png)
+Fig. 1
 
 *Background:* In the US, Methane emissions from livestock are not reported. The data set selected shows the reported Greenhouse Gas emissions by different sector. This made the topic interesting and intrigued me to take a deeper look into it.
+
 ![ScreenShot](https://user-images.githubusercontent.com/32223677/33045847-35410cf4-ce03-11e7-8ac4-235e5770c3ee.png)
+Fig. 2
 ***
 **Day 2:**
 
@@ -92,11 +96,18 @@ Link2 shows that methane has 25-100 times more efficient in trapping radiations 
 
 * **Activity 1:** Creating a MVP and discussing results with the professor. This will help in understanding and identifying the needs, wants and possible fears of the user at an early stage.
 
+![ScreenShot](https://user-images.githubusercontent.com/32223677/33000847-53316afa-cd5f-11e7-82f2-aa5aeacf5e7d.png)
+Fig. 3
+
+![ScreenShot](https://user-images.githubusercontent.com/32223677/32994695-becc24d4-cd1f-11e7-9af0-d2e957c74a95.png)
+Fig. 4
+
 * **Activity 2:** Analyzing the data sets and selected 2 states 'Nebraska' and 'Kansas' to be shown on the Visualization. These states are taken as these are amongst the top 3 states in the US with respect to the population of livestock. Even though they have large livestock population, from the visual 1 it can be seen that the contribution of Methane emissions is very less compared to the reported Greenhouse Gases. Methane emissions from livestock accounts for **only 1.3%** which is significantly less. We can infer from the visualization that this type of emission is not posing any serious concern and it is ok not to account them.
+
 
 * **Activity 3:** Read different articles and research paper to analyze how the Methane emissions from livestock could be calculated. 
 * **Research paper 1:** https://www3.epa.gov/ttnchie1/conference/ei12/green/mangino.pdf
-
+![ScreenShot](https://user-images.githubusercontent.com/32223677/33045996-efc1f4d0-ce03-11e7-942d-33a4f42a0ac5.png)
 A very informative and well written paper by *Joseph Mangino*, *Katrin Peterson and Hannah Jacobs*. This research paper helped in understanding different factors taken into consideration to calulate the methane emissions from livestock.
 
 This process is not simple. The emissions depends on different factors such as the following:
