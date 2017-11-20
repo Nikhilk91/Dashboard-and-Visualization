@@ -51,13 +51,14 @@ This project will be based on exploration rather than confirmation.
 **Day 1:**
 
 * **Activity 1:** Studying and analyzing different visualization and data sets available online. After analysis, selected the data set/topic on which deception visualization will be created.
+![ScreenShot](https://user-images.githubusercontent.com/32223677/33045757-c9b7653c-ce02-11e7-92de-a8258991ff33.png)
 
 *Background:* In the US, Methane emissions from livestock are not reported. The data set selected shows the reported Greenhouse Gas emissions by different sector. This made the topic interesting and intrigued me to take a deeper look into it.
-
+![ScreenShot](https://user-images.githubusercontent.com/32223677/33045847-35410cf4-ce03-11e7-8ac4-235e5770c3ee.png)
 ***
 **Day 2:**
 
-* **Activity 1:** Had a discussion with the professor regarding the visualization I selected. 
+* **Activity 1:** Had a discussion with the professor regarding the data set/topic I selected. 
 *Meeting output:* The topic seemed promising and worth a deeper analysis.
 
 * **Activity 2:** Drafted project statement and created a project plan. Started working on “Making-of” document.
