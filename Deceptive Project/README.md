@@ -2,7 +2,15 @@
 ##### Date: 17th Nov 2017                                                                                                                                                    
 ##### Nikhil Kaushik | W1344280 | Fall 2017
 ##### Professor: Michael Schermann
-##### Tableau Visual: https://public.tableau.com/profile/nikhil.kaushik#!/vizhome/DeceptiveVisualizationComparisoninpollutionlevels/Dashboard1?publish=yes
+##### Tableau Visual: 
+**Visual 1: Methane Emissions from livestocks do not pose a significant threat on climate** 
+
+Link: https://public.tableau.com/profile/nikhil.kaushik#!/vizhome/DeceptiveVisualizationComparisoninpollutionlevels/MethaneEmissionsarenotathreat
+
+**Visual 2: Methane emissions from livestock poses a serious threat on climate** 
+
+Link: https://public.tableau.com/profile/nikhil.kaushik#!/vizhome/DeceptiveVisualizationComparisoninpollutionlevels/MethaneEmissionsareaseriousthreat
+
 ##### Youtube Video:
 ***
 
