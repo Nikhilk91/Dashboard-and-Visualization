@@ -158,7 +158,7 @@ But, after analysis and findings, this was not the case. The methane emissions b
 
 ![ScreenShot](https://user-images.githubusercontent.com/32223677/33046497-084463c4-ce06-11e7-85c0-8d8a5a0c93f1.png)
 
-Later, the idea was changed to show that methane emissions from livestock are insignificant compared to total reported emissions. Counterclaim for the same would be that methane emissions are very high on severity compared to CO2. This shows that they have a significant on the climate and should be accounted while calculating the toatal GHG emissions. Also, there should be steps to mitigate the challenges posed by methane.
+Later, the idea was changed to show that methane emissions from livestock are insignificant compared to total reported emissions. Counterclaim for the same would be that methane emissions are very high on severity compared to CO2. This shows that they have a significant effect on the climate and should be accounted while calculating the toatal GHG emissions. Also, there should be steps to mitigate the challenges posed by methane.
 
 * **Activity 2:** The Visualization is modified according to the above explanation. This helps in understanding the effect of Methane emissions better. Also, the visual creates a sense of awareness that neglecting the methane emissions is not the right approach.
 ***
