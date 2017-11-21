@@ -34,3 +34,7 @@ Link: https://public.tableau.com/profile/nikhil.kaushik#!/vizhome/LAB4_4/Domain?
 * Redesign Project: **To burn more calories you need to run more**
 
 Link: https://public.tableau.com/profile/nikhil.kaushik#!/vizhome/Redesign_Project/Redesign_Project?publish=yes
+
+* Deceptive Project: 
+
+Link: https://public.tableau.com/profile/nikhil.kaushik#!/vizhome/DeceptiveVisualizationComparisoninpollutionlevels/MethaneEmissionsarenotathreat
