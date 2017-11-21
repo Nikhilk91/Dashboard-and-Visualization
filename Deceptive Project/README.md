@@ -2,6 +2,8 @@
 ##### Date: 17th Nov 2017                                                                                                                                                    
 ##### Nikhil Kaushik | W1344280 | Fall 2017
 ##### Professor: Michael Schermann
+##### Project type: Individual
+
 ##### Tableau Visual: 
 **Visual 1: Methane Emissions from livestocks do not pose a significant threat on climate** 
 
