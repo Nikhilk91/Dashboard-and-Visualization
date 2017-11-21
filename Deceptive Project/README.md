@@ -225,7 +225,7 @@ This article describes that we are already underestimating the amount of Methane
 * These emissions are calculated for only two states i.e. 'Kansas' and 'Nebraska' in the United States.
 
 ### V.	Road map with future features/enhancements
-Interestingly in this Visualization we could do some predictions on the future level of Methane emissions. This could be done with the use of changing livestock population over the years and with that the changing values of methane emissions. A trend line could help show what could be the future trend/values could be.
+Interestingly in this Visualization we could do some predictions on the future level of Methane emissions. This could be done with the use of changing livestock population over the years and with that the changing values of methane emissions. A trend line could help us in showing what the future trend/values could be.
 
 ***
 ### Additional Information
