@@ -23,7 +23,9 @@ Expected Date of graduation: Dec 2018
 
 Link: https://public.tableau.com/profile/nikhil.kaushik#!/vizhome/Redesign_Project/Redesign_Project?publish=yes
 
-* **Deceptive Project: Methane Emissions from livestocks do not pose a significant threat on climate**
+* **Deceptive Project:**
+
+**Methane Emissions from livestocks do not pose a significant threat on climate**
 
 Link: https://public.tableau.com/profile/nikhil.kaushik#!/vizhome/DeceptiveVisualizationComparisoninpollutionlevels/MethaneEmissionsarenotathreat
 
