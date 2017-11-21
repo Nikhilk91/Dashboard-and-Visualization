@@ -219,7 +219,7 @@ This article by *'United States Environmental Protection Agency'* explains the p
 
 * **Article2:** https://www.theguardian.com/environment/2017/sep/29/methane-emissions-cattle-11-percent-higher-than-estimated
 
-This article ddescribes that we are already underestimating the amount of Methane emissions from the livestock.
+This article describes that we are already underestimating the amount of Methane emissions from the livestock.
 
 **Qualifier:** 
 * These emissions are calculated for only two states i.e. 'Kansas' and 'Nebraska' in the United States.
