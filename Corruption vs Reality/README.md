@@ -32,6 +32,8 @@ As we can see, countries that score higher in the Corruption Perception Index (i
 
 ### I.	Project statement (Motivation, objective, data, project plan)
 **The motivation behind this Data Product:**
+A data product is the production output from a statistical analysis. Data products automate complex analysis tasks or use technology to expand the utility of a data informed model, algorithm or inference. In this project we will be creating multiple visualization to tell a story about data to a mass audience.
+
 **Data Source:**
 
 **Project plan:**
