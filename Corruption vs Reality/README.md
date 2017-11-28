@@ -40,9 +40,9 @@ As we can see, countries that score higher in the Corruption Perception Index (i
 
 ### III.	Several intermediate visualization prototypes (This section encompasses detailed “Making-of” and Intermediate Visuals)
 
-### IV.	Final data visualization:
+### IV.	Final Data Product:
 
-### V. About the final visual
+### V. About the final Data Product
 
 ### V.	Road map with future features/enhancements
 
