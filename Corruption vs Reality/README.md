@@ -19,3 +19,27 @@ The unethical and often illegal nature of corruption makes measurement particula
 As we show, although precise corruption measurement is difficult, there is a clear correlation between perception and behavior; so available corruption data does provide valuable information that, when interpreted carefully, can both tell us something important about our world as well as contribute to the development of effective policies.
 
 For example, the data from perception surveys suggests that corruption correlates with human development, and a number of studies exploiting rich data from law enforcement records have shown that education is an important element explaining this relationship. Specifically, the data provides support for the idea that voters with more education tend to be more willing and able to monitor public employees and to take action when these employees violate the law.
+
+### I.	Project statement (Motivation, objective, data, project plan)
+**The motivation behind this Data Product:**
+**Data Source:**
+
+**Project plan:**
+
+### II. 	“Making-of” documentation (Details of your development process, data wrangling steps, your reasoning, detours, literature, etc.)
+
+### III.	Several intermediate visualization prototypes (This section encompasses detailed “Making-of” and Intermediate Visuals)
+
+### IV.	Final data visualization:
+
+### V. About the final visual
+
+### V.	Road map with future features/enhancements
+
+***
+### Additional Information
+***
+
+### VI.	Assumption(s)
+
+### VII.	All the links:
