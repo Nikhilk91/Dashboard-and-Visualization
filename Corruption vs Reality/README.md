@@ -20,6 +20,12 @@ As we show, although precise corruption measurement is difficult, there is a cle
 
 For example, the data from perception surveys suggests that corruption correlates with human development, and a number of studies exploiting rich data from law enforcement records have shown that education is an important element explaining this relationship. Specifically, the data provides support for the idea that voters with more education tend to be more willing and able to monitor public employees and to take action when these employees violate the law.
 
+### What is the relationship between corruption and development?
+The following visualization shows the cross-country relationship between development (as measured by the United Nations Human Development Index) and corruption (as measured by Transparency International’s Corruption Perception Index).
+
+As we can see, countries that score higher in the Corruption Perception Index (i.e. countries seen as less corrupt) tend to also have better scores in the Human Development Index.
+
+
 ### I.	Project statement (Motivation, objective, data, project plan)
 **The motivation behind this Data Product:**
 **Data Source:**
