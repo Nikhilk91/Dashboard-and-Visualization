@@ -1,4 +1,5 @@
-# Data Product : Corruption, how it is affecting countries?
+# Data Product : Corruption, how it is affecting countries? Is there a solution to it?
+
 ##### Date: 2nd Nov 2017                                                                                                                                                    
 ##### Professor: Michael Schermann
 ##### Project type: Group
