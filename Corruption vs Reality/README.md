@@ -44,6 +44,8 @@ A data product is the production output from a statistical analysis. Data produc
 
 ### IV.	Final Data Product:
 
+![Screenshot](https://user-images.githubusercontent.com/32223677/33367446-7abd9b0c-d4a3-11e7-98c9-c8024f7cfac3.png)
+
 ### V. About the final Data Product
 
 ### V.	Road map with future features/enhancements
