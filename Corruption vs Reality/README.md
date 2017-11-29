@@ -58,6 +58,12 @@ A data product is the production output from a statistical analysis. Data produc
 ![Screenshot](https://user-images.githubusercontent.com/32223677/33367446-7abd9b0c-d4a3-11e7-98c9-c8024f7cfac3.png)
 
 ### V. About the final Data Product
+This Data product is a set of several visualization and covers the topic of **Corruption**, its affects and its causes.
+In this project the team has created several visuals to represent how different countries are perceived on the parameter of corruption and where they actually lies in reality using the parameter 'percentage of people who actually bribed' in the country. 
+
+Then the second visualization shows how the corruption has been affecting the Human development. This a graph showing Human Development Index and Corruption Perception Index.
+
+
 
 ### V.	Road map with future features/enhancements
 
