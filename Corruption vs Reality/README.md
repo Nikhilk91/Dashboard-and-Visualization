@@ -82,9 +82,11 @@ As we can see, countries that score higher in the Corruption Perception Index (i
 
 ### III.	Several intermediate visualization prototypes (This section encompasses detailed “Making-of” and Intermediate Visuals)
 
-### IV.	Final Data Product:
-
 ![Screenshot](https://user-images.githubusercontent.com/32223677/33367446-7abd9b0c-d4a3-11e7-98c9-c8024f7cfac3.png)
+
+### IV.	Final Data Product:
+Visualization 1: Perception matches Reality
+![Screenshot](https://user-images.githubusercontent.com/32223677/33506929-d324ca72-d6a6-11e7-915a-147e0ef239a0.png)
 
 ### V. About the final Data Product
 This Data product is a set of several visualization and covers the topic of **Corruption**, its affects and its causes.
