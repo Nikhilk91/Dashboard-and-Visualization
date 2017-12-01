@@ -94,7 +94,8 @@ This visual presents a great insight regarding the problem of corruption. It can
 
 ### V.	Road map with future features/enhancements
 * Add analysis, to check why and how corruption became prevelant in certain areas of the world.
-* Analyze the affect of erradicating corruption from a country. Although corruption is assumed to be a problem and a factor hindering growth, but it could potentially be needed in certain countries for the purpose of business and a smooth functioning of government bodies. In these countries corruption might be playing a vital role in GDP's growth. 
+* Analyze the possible effect of erradicating corruption from a country. Although corruption is assumed to be a problem and a factor hindering growth, but it could potentially be needed in certain countries for the purpose of business and a smooth functioning of government bodies. In these countries corruption might be playing a vital role in growth of GDP.
+* Further analysis could be done to add more solution to this problem.
 
 ***
 ### Additional Information
