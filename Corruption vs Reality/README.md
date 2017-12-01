@@ -40,9 +40,9 @@ In this project, we first validated how CPI relates with the reality. We compare
 
 We tried to analyze how corruption can hinder the Human Development by creating a visualization between HDI and CPI. This helped us in understanding that Human Development is lower in countries where corruption is more. 
 
-Further we tried to analyze how deep rooted are the effects of corruption on a country's GDP and how it affects the Foreign Direct Investment.
+Further we tried to analyze how deep rooted are the effects of corruption on a country's **GDP** and how it affects the **Foreign Direct Investment**.
 
-In this project we also added a possible solution to the problem of Corruption and that is **'Education'**.
+In this project we also added a possible solution to the problem of Corruption and that is **Education**.
 
 
 
