@@ -93,6 +93,9 @@ This visualization is to validate how CPI relates with the reality. The comparis
 
 We have kept the visualization in the same format. All the visualizations are of type **scatter plot** as we had a large set of countries and it make sense to analyze data using a scatter plot. It is easy to see the trend corruption is following if the data is grouped on the basis of **Continents**. The x-axis has been kept consistent throughout so that the user doesn't have to put in a lot of time and effort to understand each visual.
 
+This visual presents a great insight regarding the problem of corruption. It can be easily observed that the problem of corruption is greater in the region of Asia, Africa and South America. It can be concluded from this visualization that corruption is a problem of a region. It could be possible that corruption gets spreaded to the neighbouring countries and it perceived to be normal in the particular region as most of the countries in these region faces this problem. It would take further analysis and is out of scope of this project, to check wether the problem of corruption has spread from one country to another over the period of time.
+
+
 **Disadvantage:**
 
 1. The problem of unnecessary data on one chart persists.
@@ -105,11 +108,6 @@ This Data product is a set of several visualization and covers the topic of **Co
 In this project the team has created several visuals to represent how different countries are perceived on the parameter of corruption and where they actually lies in reality using the parameter 'percentage of people who actually bribed' in the country. 
 
 Then the second visualization shows how the corruption has been affecting the Human development. This a graph showing Human Development Index and Corruption Perception Index.
-
-
---------
-This visual presents a great insight regarding the problem of corruption. It can be easily observed that the problem of corruption is greater in the region of Asia, Africa and South America. It can be concluded from this visualization that corruption is a problem of a region. It could be possible that corruption gets spreaded to the neighbouring countries and it perceived to be normal in the particular region as most of the countries in these region faces this problem. It would take further analysis and is out of scope of this project, to check wether the problem of corruption has spread from one country to another over the period of time.
---------
 
 ### V.	Road map with future features/enhancements
 * Add analysis, to check why and how corruption became prevelant in certain areas of the world.
