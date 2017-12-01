@@ -17,7 +17,7 @@ https://public.tableau.com/profile/nikhil.kaushik#!/vizhome/Corruption_Perceptio
 **The motivation behind this Data Product:**
 A data product is the production output from a statistical analysis. Data products automate complex analysis tasks or use technology to expand the utility of a data informed model, algorithm or inference. In this project we will be creating multiple visualization to tell a story about corruption to a mass audience.
 
-## The Start
+### The Start
 
 The team started this project with **5 W's**
 * **Why**   - Why is this *Data Product needed*?
