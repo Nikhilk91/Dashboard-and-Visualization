@@ -78,6 +78,7 @@ As we can see, countries that score higher in the Corruption Perception Index (i
 **Data Source:**
 
 ### II. 	“Making-of” documentation (Details of your development process, data wrangling steps, your reasoning, detours, literature, etc.)
+![Screenshot](https://user-images.githubusercontent.com/32223677/33506542-22adedbe-d6a5-11e7-9cd1-01e4c6598da8.png)
 
 ### III.	Several intermediate visualization prototypes (This section encompasses detailed “Making-of” and Intermediate Visuals)
 
