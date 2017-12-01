@@ -116,3 +116,15 @@ Then the second visualization shows how the corruption has been affecting the Hu
 
 
 ### VII.	All the links:
+
+Links related to *'Reason behind corruption in different regions'*:
+
+Link: http://www.sciencemag.org/news/2016/03/corrupt-societies-encourage-lying
+
+Link: http://www.jonstquah.com/documents/Corruption%20in%20Singapore%20AJPA.pdf
+
+Link: https://www.forbes.com/sites/tanvigupta/2017/03/13/asias-five-most-corrupt-countries/1#ac7b0246a985
+
+Link: https://blogs.imf.org/2017/09/21/corruption-in-latin-america-taking-stock/
+
+Link: https://www.insightcrime.org/news/analysis/why-is-latin-america-so-corrupt/
