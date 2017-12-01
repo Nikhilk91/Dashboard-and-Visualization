@@ -88,6 +88,9 @@ In this project the team has created several visuals to represent how different 
 Then the second visualization shows how the corruption has been affecting the Human development. This a graph showing Human Development Index and Corruption Perception Index.
 
 
+--------
+This visual present a great insight regarding the problem of corruption. It can be easily observed that the problem of corruption is greater in the region of Asia, Africa and South America. It can be concluded from this visualization that corruption is a problem of a region. It could be possible that corruption gets spreaded to the neighbouring countries and it perceived to be normal in the particular region as most of the countries in these region faces this problem. It would take further analysis and is out of scope of this project, to check wether the problem of corruption has spread from one country to another over the period of time.
+--------
 
 ### V.	Road map with future features/enhancements
 
