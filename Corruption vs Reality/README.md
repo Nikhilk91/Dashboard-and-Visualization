@@ -23,6 +23,19 @@ The team started this project with **5 W's**
 
 *Note:* It doesn't matter how awesome a product is, it will be of no value if not delivered in time. Sometimes a normal product works way better than an awesome product, it totally depends on the time of entry.
 
+**Project plan:**
+1. To decide on a topic on which a 'Data Product' is to be made.
+2. Analyze the data and come up with a possible story.
+3. To come up with a claim (for the complete data product), with the selected data.
+4. Decide on different metrics to be shown in the product.
+4. To create a Minimal Viable Product.
+5. Combine the data sets collected from different sources to create a single data set.
+5. Make intermediate versions.
+6. Analyze intermediate versions and find advantages and disadvantages of them.
+7. Come up with the final Data Product.
+8. Note down possible enhancements in the final version.
+9. Create a video to present my visualization.
+
 ## Introduction: Corruption
 Corruption is a form of dishonest or unethical conduct by a person entrusted with a position of authority, often to acquire personal benefit. Corruption may include many activities including bribery and embezzlement, though it may also involve practices that are legal in many countries. Government, or 'political', corruption occurs when an office-holder or other governmental employee acts in an official capacity for personal gain.
 
@@ -58,18 +71,7 @@ A data product is the production output from a statistical analysis. Data produc
 
 **Data Source:**
 
-**Project plan:**
-1. To decide on a topic on which a 'Data Product' is to be made.
-2. Analyze the data and come up with a possible story.
-3. To come up with a claim (for the complete data product), with the selected data.
-4. Decide on different metrics to be shown in the product.
-4. To create a Minimal Viable Product.
-5. Combine the data sets collected from different sources to create a single data set.
-5. Make intermediate versions.
-6. Analyze intermediate versions and find advantages and disadvantages of them.
-7. Come up with the final Data Product.
-8. Note down possible enhancements in the final version.
-9. Create a video to present my visualization.
+
 
 ### II. 	“Making-of” documentation (Details of your development process, data wrangling steps, your reasoning, detours, literature, etc.)
 
