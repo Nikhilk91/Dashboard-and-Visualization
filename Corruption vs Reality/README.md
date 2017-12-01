@@ -21,7 +21,7 @@ The team started this project with **5 W's**
 * **Where** - Where can we get the *relevant data* from?
 * **When**  - By when this data is needed? 
 
-*Note:* It is irrelevant to create an awesome product, for which nobody cares about as it loses its purpose if not delivered within the given frame of time.
+*Note:* It doesn't matter how awesome a product is, it will be of no value if not delivered in time.
 
 ## Introduction
 Corruption is a form of dishonest or unethical conduct by a person entrusted with a position of authority, often to acquire personal benefit. Corruption may include many activities including bribery and embezzlement, though it may also involve practices that are legal in many countries. Government, or 'political', corruption occurs when an office-holder or other governmental employee acts in an official capacity for personal gain.
