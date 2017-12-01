@@ -14,12 +14,16 @@ https://public.tableau.com/profile/nikhil.kaushik#!/vizhome/Corruption_Perceptio
 ***
 
 ### I. Project statement (Motivation, objective, data, project plan)
-**The motivation behind this Data Product:**
-A data product is the production output from a statistical analysis. Data products automate complex analysis tasks or use technology to expand the utility of a data informed model, algorithm or inference. In this project we will be creating multiple visualization to tell a story about corruption to a mass audience.
 
-### The Start
+### The *start* and the *motivation*
+*What is a data product?*
 
-The team started this project with **5 W's**
+Before jumping to anything else, the team first discussed what all a 'Data Product' encompasses.
+To answer this better, this youtube video helped us a lot. Link: https://www.youtube.com/watch?v=OuRINNSDtlM
+
+A data product has several definitions. For this project, a data product is a set of visualizations put together to present a story to the audience which has an argument supported by those visualization.
+
+Once the desired outcome of this complete project is understood, the team discussed the **5 W's**
 * **Why**   - Why is this *Data Product needed*?
 * **Who**   - Who will be the *audience*?
 * **What**  - What is the *needs and wants* of the audience?
@@ -56,22 +60,18 @@ Transparency International (TI) has published the Corruption Perceptions Index (
 
 In this project, we first validated how CPI relates with the reality. We compared CPI with the percentage of people who have actually bribed. This helped in proving that the CPI matches the reality. For further analysis on affects of corruption we used CPI as a metric.
 
-We tried to analyze how corruption can hinder the Human Development by creating a visualization between HDI and CPI. This helped us in understanding that Human Development is lower in countries where corruption is more. 
+We analyzed how corruption can hinder the Human Development by creating a visualization between HDI and CPI. This helped us in understanding that Human Development is lower in countries where corruption is more. 
 
-Further we tried to analyze how deep rooted are the effects of corruption on a country's **GDP** and how it affects the **Foreign Direct Investment**.
+Further analyzed how deep rooted are the effects of corruption on a country's **GDP** and how it affects the **Foreign Direct Investment**.
 
-In this project we also added a possible solution to the problem of Corruption and that is **Education**.
+In this project we also added a possible solution to the problem of Corruption and that is **Education**. The message to all the countries is - 'educate your people to eradicate corruption'.
 
 ### What is the relationship between corruption and development?
 The following visualization shows the cross-country relationship between development (as measured by the United Nations Human Development Index) and corruption (as measured by Transparency International’s Corruption Perception Index).
 
 As we can see, countries that score higher in the Corruption Perception Index (i.e. countries seen as less corrupt) tend to also have better scores in the Human Development Index.
 
-
-
 **Data Source:**
-
-
 
 ### II. 	“Making-of” documentation (Details of your development process, data wrangling steps, your reasoning, detours, literature, etc.)
 
