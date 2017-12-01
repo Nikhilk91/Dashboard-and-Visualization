@@ -11,9 +11,20 @@ Link1:
 https://public.tableau.com/profile/nikhil.kaushik#!/vizhome/Corruption_Perception_and_Reality/PerceptionandReality?publish=yes
 
 ##### Youtube Video:
+***
+## The Start
+
+The team started this project with **5 W's**
+* **Why**   - Why is this *Data Product needed*?
+* **Who**   - Who will be the *audience*?
+* **What**  - What is the *needs and wants* of the audience?
+* **Where** - Where can we get the *relevant data* from?
+* **When**  - By when this data is needed? 
+
+*Note:* It is irrelevant to create an awesome product, for which nobody cares about as it loses its purpose if not delivered within the given frame of time.
 
 ## Introduction
-Corruption is a form of dishonest or unethical conduct by a person entrusted with a position of authority, often to acquire personal benefit. Corruption may include many activities including bribery and embezzlement, though it may also involve practices that are legal in many countries. Government, or 'political', corruption occurs when an office-holder or other governmental employee acts in an official capacity for personal gain. --Wiki
+Corruption is a form of dishonest or unethical conduct by a person entrusted with a position of authority, often to acquire personal benefit. Corruption may include many activities including bribery and embezzlement, though it may also involve practices that are legal in many countries. Government, or 'political', corruption occurs when an office-holder or other governmental employee acts in an official capacity for personal gain.
 
 Corruption is a phenomenon involving many different aspects, and it is therefore hard to give a precise and comprehensive definition. However, at the core of most definitions of corruption is the idea that a corrupt act implies the abuse of entrusted power for private gain. Classic examples include bribery, clientelism, and embezzlement. Other, often more subtle and sometimes even legal examples of corruption include lobbying and patronage.
 
@@ -21,6 +32,7 @@ While long-run data on corruption is very limited, historical examples suggest t
 
 The unethical and often illegal nature of corruption makes measurement particularly complicated. Corruption data usually comes from either direct observation (e.g. law enforcement records and audit reports), or perception surveys (e.g. public opinion surveys, or expert assessments). In this entry we discuss data from both sources, and discuss their underlying limitations.
 ![Screenshot](https://user-images.githubusercontent.com/32223677/33299107-f0d9576e-d39e-11e7-8ade-3cecb25ca72e.png)
+
 As we show, although precise corruption measurement is difficult, there is a clear correlation between perception and behavior; so available corruption data does provide valuable information that, when interpreted carefully, can both tell us something important about our world as well as contribute to the development of effective policies.
 
 For example, the data from perception surveys suggests that corruption correlates with human development, and a number of studies exploiting rich data from law enforcement records have shown that education is an important element explaining this relationship. Specifically, the data provides support for the idea that voters with more education tend to be more willing and able to monitor public employees and to take action when these employees violate the law.
@@ -33,7 +45,7 @@ As we can see, countries that score higher in the Corruption Perception Index (i
 
 ### I.	Project statement (Motivation, objective, data, project plan)
 **The motivation behind this Data Product:**
-A data product is the production output from a statistical analysis. Data products automate complex analysis tasks or use technology to expand the utility of a data informed model, algorithm or inference. In this project we will be creating multiple visualization to tell a story about data to a mass audience.
+A data product is the production output from a statistical analysis. Data products automate complex analysis tasks or use technology to expand the utility of a data informed model, algorithm or inference. In this project we will be creating multiple visualization to tell a story about corruption to a mass audience.
 
 **Data Source:**
 
