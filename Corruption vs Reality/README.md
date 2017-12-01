@@ -23,7 +23,9 @@ To answer this better, this youtube video helped us a lot. Link: https://www.you
 
 A data product has several definitions. For this project, a data product is a set of visualizations put together to present a story to the audience which has an argument supported by those visualization.
 
-Once the desired outcome of this complete project is understood, the team discussed the **5 W's**
+Once the desired outcome of this project is understood, the team discussed the **5 W's**. The 5 W's are important because it helps us in analyzing what needs to be done, who will be the audience and what do they expect from this data product. 
+This also helped us in coming up with a timeline to be followed for the project.
+
 * **Why**   - Why is this *Data Product needed*?
 * **Who**   - Who will be the *audience*?
 * **What**  - What is the *needs and wants* of the audience?
