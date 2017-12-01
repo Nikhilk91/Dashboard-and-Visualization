@@ -51,7 +51,7 @@ Corruption is a form of dishonest or unethical conduct by a person entrusted wit
 The unethical and often illegal nature of corruption makes measurement particularly complicated. Corruption data usually comes from either direct observation (e.g. law enforcement records and audit reports), or perception surveys (e.g. public opinion surveys, or expert assessments). In this project the data taken is from both sources.
 ![Screenshot](https://user-images.githubusercontent.com/32223677/33299107-f0d9576e-d39e-11e7-8ade-3cecb25ca72e.png)
 
-**Corruption Perception Index and its important in our analysis**
+**Corruption Perception Index and its importance in our analysis**
 
 Transparency International (TI) has published the Corruption Perceptions Index (CPI) since 1996, annually ranking countries "by their perceived levels of corruption, as determined by expert assessments and opinion surveys." The CPI generally defines corruption as "the misuse of public power for private benefit" 
 
