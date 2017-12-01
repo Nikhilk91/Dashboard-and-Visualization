@@ -117,7 +117,7 @@ Then the second visualization shows how the corruption has been affecting the Hu
 
 ### VII.	All the links:
 
-Links related to *'Reason behind corruption in different regions'*:
+Links related to visualization 1, explaining the **,'Reason behind corruption in different regions'**:
 
 Link: http://www.sciencemag.org/news/2016/03/corrupt-societies-encourage-lying
 
