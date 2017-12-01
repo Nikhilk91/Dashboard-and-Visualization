@@ -51,7 +51,8 @@ This also helped us in coming up with a timeline to be followed for the project.
 Corruption is a form of dishonest or unethical conduct by a person entrusted with a position of authority, often to acquire personal benefit. Corruption may include many activities including bribery and embezzlement, though it may also involve practices that are legal in many countries. Government, or 'political', corruption occurs when an office-holder or other governmental employee acts in an official capacity for personal gain.
 
 The unethical and often illegal nature of corruption makes measurement particularly complicated. Corruption data usually comes from either direct observation (e.g. law enforcement records and audit reports), or perception surveys (e.g. public opinion surveys, or expert assessments). In this project the data taken is from both sources.
-![Screenshot](https://user-images.githubusercontent.com/32223677/33299107-f0d9576e-d39e-11e7-8ade-3cecb25ca72e.png)
+![Screenshot](https://user-images.githubusercontent.com/32223677/33506132-47355eda-d6a3-11e7-80e5-20f7f7e3aa69.jpg)
+*Source: Huffington Post*
 
 **Corruption Perception Index and its importance in our analysis**
 
