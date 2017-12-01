@@ -21,9 +21,9 @@ The team started this project with **5 W's**
 * **Where** - Where can we get the *relevant data* from?
 * **When**  - By when this data is needed? 
 
-*Note:* It doesn't matter how awesome a product is, it will be of no value if not delivered in time.
+*Note:* It doesn't matter how awesome a product is, it will be of no value if not delivered in time. Sometimes a normal product works way better than an awesome product, it totally depends on the time of entry.
 
-## Introduction
+## Introduction about the Topic : Corruption
 Corruption is a form of dishonest or unethical conduct by a person entrusted with a position of authority, often to acquire personal benefit. Corruption may include many activities including bribery and embezzlement, though it may also involve practices that are legal in many countries. Government, or 'political', corruption occurs when an office-holder or other governmental employee acts in an official capacity for personal gain.
 
 Corruption is a phenomenon involving many different aspects, and it is therefore hard to give a precise and comprehensive definition. However, at the core of most definitions of corruption is the idea that a corrupt act implies the abuse of entrusted power for private gain. Classic examples include bribery, clientelism, and embezzlement. Other, often more subtle and sometimes even legal examples of corruption include lobbying and patronage.
