@@ -36,7 +36,15 @@ Transparency International (TI) has published the Corruption Perceptions Index (
 **Economic implications**
 "Research papers published in 2007 and 2008 examined the economic consequences of corruption perception, as defined by the CPI. The researchers found a correlation between a higher CPI and higher long-term economic growth, as well as an increase in GDP growth of 1.7% for every unit increase in a country's CPI score. Also shown was a power-law dependence linking higher CPI score to higher rates of foreign investment in a country."   *Source: Wikipedia*
 
-In this project, we first validated the correctness and accuracy of CPI by matching it with the percentage of people who have actually bribed. This helped in proving that the CPI matches the reality. For further analysis on affects of corruption we used CPI as a metric.
+In this project, we first validated how CPI relates with the reality. We compared CPI with the percentage of people who have actually bribed. This helped in proving that the CPI matches the reality. For further analysis on affects of corruption we used CPI as a metric.
+
+We tried to analyze how corruption can hinder the Human Development by creating a visualization between HDI and CPI. This helped us in understanding that Human Development is lower in countries where corruption is more. 
+
+Further we tried to analyze how deep rooted are the effects of corruption on a country's GDP and how it affects the Foreign Direct Investment.
+
+In this project we also added a possible solution to the problem of Corruption and that is **'Education'**.
+
+
 
 ### What is the relationship between corruption and development?
 The following visualization shows the cross-country relationship between development (as measured by the United Nations Human Development Index) and corruption (as measured by Transparency International’s Corruption Perception Index).
