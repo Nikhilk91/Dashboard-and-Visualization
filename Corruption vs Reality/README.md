@@ -28,7 +28,7 @@ The team started this project with **5 W's**
 
 *Note:* It doesn't matter how awesome a product is, it will be of no value if not delivered in time. Sometimes a normal product works way better than an awesome product, it totally depends on the time of entry.
 
-**Project plan:**
+### Project plan:
 1. To decide on a topic on which a 'Data Product' is to be made.
 2. Analyze the data and come up with a possible story.
 3. To come up with a claim (for the complete data product), with the selected data.
@@ -41,7 +41,7 @@ The team started this project with **5 W's**
 8. Note down possible enhancements in the final version.
 9. Create a video to present my visualization.
 
-## Introduction: Corruption
+### Introduction: Corruption
 Corruption is a form of dishonest or unethical conduct by a person entrusted with a position of authority, often to acquire personal benefit. Corruption may include many activities including bribery and embezzlement, though it may also involve practices that are legal in many countries. Government, or 'political', corruption occurs when an office-holder or other governmental employee acts in an official capacity for personal gain.
 
 The unethical and often illegal nature of corruption makes measurement particularly complicated. Corruption data usually comes from either direct observation (e.g. law enforcement records and audit reports), or perception surveys (e.g. public opinion surveys, or expert assessments). In this project the data taken is from both sources.
@@ -61,8 +61,6 @@ We tried to analyze how corruption can hinder the Human Development by creating 
 Further we tried to analyze how deep rooted are the effects of corruption on a country's **GDP** and how it affects the **Foreign Direct Investment**.
 
 In this project we also added a possible solution to the problem of Corruption and that is **Education**.
-
-
 
 ### What is the relationship between corruption and development?
 The following visualization shows the cross-country relationship between development (as measured by the United Nations Human Development Index) and corruption (as measured by Transparency International’s Corruption Perception Index).
