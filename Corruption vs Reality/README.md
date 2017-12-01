@@ -18,13 +18,14 @@ https://public.tableau.com/profile/nikhil.kaushik#!/vizhome/Corruption_Perceptio
 ### The *start* and the *motivation*
 *What is a data product?*
 
-Before jumping to anything else, the team first discussed what all a 'Data Product' encompasses.
+Understanding what all a 'Data Product' encompasses is really essential for this project.
 To answer this better, this youtube video helped us a lot. Link: https://www.youtube.com/watch?v=OuRINNSDtlM
 
 A data product has several definitions. For this project, a data product is a set of visualizations put together to present a story to the audience which has an argument supported by those visualization.
 
-Once the desired outcome of this project is understood, the team discussed the **5 W's**. The 5 W's are important because it helps us in analyzing what needs to be done, who will be the audience and what do they expect from this data product. 
-This also helped us in coming up with a timeline to be followed for the project.
+Once we understood the requirement and expectations from this project, the team discussed the **5 W's**. The 5 W's are important because it helps us in analyzing what needs to be done, who will be the audience and what do they expect from this data product. This also helped us in coming up with a timeline to be followed for the project.
+
+A qucik look at the **5 W's** we used:
 
 * **Why**   - Why is this *Data Product needed*?
 * **Who**   - Who will be the *audience*?
@@ -32,7 +33,7 @@ This also helped us in coming up with a timeline to be followed for the project.
 * **Where** - Where can we get the *relevant data* from?
 * **When**  - By when this data is needed? 
 
-*Note:* It doesn't matter how awesome a product is, it will be of no value if not delivered in time. Sometimes a normal product works way better than an awesome product, it totally depends on the time of entry.
+*Note:* It doesn't matter how awesome a product is, it will be of no value if not delivered when it is needed. Sometimes a normal product works way better than an awesome product, it totally depends on the time of entry.
 
 ### Project plan:
 1. To decide on a topic on which a 'Data Product' is to be made.
