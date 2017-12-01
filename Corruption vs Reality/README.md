@@ -104,16 +104,13 @@ In this project the team has created several visuals to represent how different 
 Then the second visualization shows how the corruption has been affecting the Human development. This a graph showing Human Development Index and Corruption Perception Index.
 
 ### V.	Road map with future features/enhancements
-* Add analysis, to check why and how corruption became prevelant in certain areas of the world.
+* Add analysis to check why and how corruption became prevelant in certain areas of the world. Also, add predictive modelling to understand the possible future trend to see how the corruption can affect a region (will it increase or decrease).
 * Analyze the possible effect of erradicating corruption from a country. Although corruption is assumed to be a problem and a factor hindering growth, but it could potentially be needed in certain countries for the purpose of business and a smooth functioning of government bodies. In these countries corruption might be playing a vital role in growth of GDP.
 * Further analysis could be done to add more solution to this problem.
 
 ***
 ### Additional Information
 ***
-
-### VI.	Assumption(s)
-
 
 ### VII.	All the links:
 
