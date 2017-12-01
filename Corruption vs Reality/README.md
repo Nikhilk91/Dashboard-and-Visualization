@@ -86,6 +86,18 @@ As we can see, countries that score higher in the Corruption Perception Index (i
 
 ### IV.	Final Data Product:
 Visualization 1: Perception matches Reality
+
+This visualization is to validate how CPI relates with the reality. The comparison of CPI with the percentage of people who have actually bribed is matching. For further analysis on affects of corruption we used CPI as a metric as this can be considered a good parameter to be used as it matches with the reality. The CPI correctly shows the level of corruption in different countries.
+
+**Advantages:** This visual enables the audience to easily see how Corruption Perception Index is realted to the reality. The visual shows a relationship between the CPI and the share of people who have bribed (in percentage)  for the year 2013. 
+
+We have kept the visualization in the same format. All the visualizations are of type **scatter plot** as we had a large set of countries and it make sense to analyze data using a scatter plot. It is easy to see the trend corruption is following if the data is grouped on the basis of **Continents**. The x-axis has been kept consistent throughout so that the user doesn't have to put in a lot of time and effort to understand each visual.
+
+**Disadvantage:**
+
+1. The problem of unnecessary data on one chart persists.
+2. Claim could not be supported by this chart.
+
 ![Screenshot](https://user-images.githubusercontent.com/32223677/33506929-d324ca72-d6a6-11e7-915a-147e0ef239a0.png)
 
 ### V. About the final Data Product
