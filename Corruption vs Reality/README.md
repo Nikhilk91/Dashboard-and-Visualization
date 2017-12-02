@@ -82,6 +82,15 @@ In this project we also added a possible solution to the problem of Corruption a
 * This helped in proving that CPI matches Reality.
 
 **Disadvantages:**
+* The segregation or the grouping in this visual is done on the basis of CPI, which is redundant as it can be easily seen from the x-axis. The color coding is not needed for this repetitive categories.
+
+![Screenshot](https://user-images.githubusercontent.com/32223677/33509171-23f37aea-d6b4-11e7-928d-76713da275db.png)
+
+**Advantages:**
+* This visualization helps to see the trend and relationship between Corruption Perception Index and Reality.
+* This helped in proving that CPI matches Reality.
+
+**Disadvantages:**
 * The segregation or the grouping in this visual is done on the basis of CPI, which is redundant as it can be easily seen from the x-axis. The color coding is not needed for this repetitive categories. 
 
 ![Screenshot](https://user-images.githubusercontent.com/32223677/33367446-7abd9b0c-d4a3-11e7-98c9-c8024f7cfac3.png)
