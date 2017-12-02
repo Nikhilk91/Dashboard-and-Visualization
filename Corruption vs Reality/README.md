@@ -210,6 +210,7 @@ Gross domestic product (GDP) is the total value of everything produced by all t
 Corruption has been studied as a problem of political, economic, cultural and moral underdevelopment. The World Bank and IMF presume that corruption has significantly negative effects on economic growth. Corruption undermines development by distorting the rule of law and weakening the institutional foundation on which economic growth depends.
 
 **Intermediate version:**
+
 Tableau link - https://public.tableau.com/profile/neha.goushal#!/vizhome/CorruptionaffectGDP/Intermediate?publish=yes
 
 ![Screenshot]()
@@ -225,6 +226,7 @@ Disadvantages:
 - There are not a lot of countries on the higher end of GDP among less corrupt countries.
 
 **Final version:**
+
 Tableau link – https://public.tableau.com/profile/neha.goushal#!/vizhome/CorruptionaffectGDP/GDPvsCPI?publish=yes
 
 ![Screenshot]()
@@ -245,7 +247,8 @@ Disadvantages:
 - This has the percent change of GDP only over one year, which again is not very effective.
 - Also, the CPI value is for the year 2013 and does not help us in concluding a strong claim.
 
-References:
+**References:**
+
 http://www.tandfonline.com/doi/full/10.1080/1331677X.2016.1169701
 https://www.investopedia.com/articles/investing/012215/how-corruption-affects-emerging-economies.asp
 
