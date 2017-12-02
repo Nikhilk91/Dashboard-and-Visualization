@@ -247,11 +247,6 @@ Disadvantages:
 - This has the percent change of GDP only over one year, which again is not very effective.
 - Also, the CPI value is for the year 2013 and does not help us in concluding a strong claim.
 
-**References:**
-
-http://www.tandfonline.com/doi/full/10.1080/1331677X.2016.1169701
-https://www.investopedia.com/articles/investing/012215/how-corruption-affects-emerging-economies.asp
-
 ***
 ### Visualization 4: Educate people to eradicate corruption
 Why Education as a metric?
