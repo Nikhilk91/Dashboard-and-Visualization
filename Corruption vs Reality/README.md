@@ -185,6 +185,8 @@ Hence, we need to see the impact of corruption on overall quality of human capit
 
 Advantages: In this visualization, we have plotted corruption perception index against human development index. We have divided the countries into continents in order to get a better understanding and to analyze the reasons behind corruption. Blue color represents Asia, Africa and South America whereas red represents North America and Europe. We can clearly see the trend here, the Asian, African and South American countries have very low corruption perception index which indicates a very high corruption. Clearly, they have a very low human development index. For North America, Europe and Oceania, as the corruption perception index is increasing, i.e. as the corruption is decreasing, we get to see a growing trend in human development. The visualization provides the platform to study the reasons and come up with an action plan to eradicate corruption.  
 
+![Screenshot](https://user-images.githubusercontent.com/32223677/33511546-5f6da59c-d6d1-11e7-9383-ea8c843e5790.PNG)
+
 ### Visualization 3: Countries with higher CPI have a stable GDP.
 
 Gross domestic product (GDP)
