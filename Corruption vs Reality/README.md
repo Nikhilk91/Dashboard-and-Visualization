@@ -170,7 +170,8 @@ One of the major reason for high corruption is the financial instability. “If 
 
 *Source: https://www.insightcrime.org/news/analysis/why-is-latin-america-so-corrupt/
          https://blogs.imf.org/2017/09/21/corruption-in-latin-america-taking-stock/*
-         
+
+***
 #### Visualization 2: Corruption has adverse effect on human development
 
 Human Development Index(HDI)
@@ -187,6 +188,7 @@ Advantages: In this visualization, we have plotted corruption perception index a
 
 ![Screenshot](https://user-images.githubusercontent.com/32223677/33511546-5f6da59c-d6d1-11e7-9383-ea8c843e5790.PNG)
 
+***
 ### Visualization 3: Countries with higher CPI have a stable GDP.
 
 Gross domestic product (GDP)
@@ -202,7 +204,7 @@ If we examine the relationship between perceived corruption level and economic g
  
 We also found a significantly positive impact of corruption on GDP growth in large East Asian countries. One explanation might be that a strong centralized government can limit the negative effects of bribery compared to a decentralized corrupt bureaucracy. The long-run estimates indicate that corruption has direct negative impact on per capita GDP. 
  
- 
+***
 ### Visualization 4: Education
 
 ### V. About the final Data Product
