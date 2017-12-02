@@ -78,11 +78,11 @@ In this project we also added a possible solution to the problem of Corruption a
 ### III.	Several intermediate visualization prototypes (This section encompasses detailed “Making-of” and Intermediate Visuals)
 
 **Advantages:**
-* This visualization helps to see the trend and relationship between Corruption Perception Index and Reality.
-* This helped in proving that CPI matches Reality.
+* This visualization is part of a Minimal Viable product and is a quick way to check with the user if this is what he/she is looking for.
+* This has a very small set of countries, but provides us with some sort of trend that the countries with higher corruption has higher number of share of people who have bribed.
 
 **Disadvantages:**
-* The segregation or the grouping in this visual is done on the basis of CPI, which is redundant as it can be easily seen from the x-axis. The color coding is not needed for this repetitive categories.
+* It is hard to make any solid conclusion with the subset of data used.
 
 ![Screenshot](https://user-images.githubusercontent.com/32223677/33509171-23f37aea-d6b4-11e7-928d-76713da275db.png)
 
