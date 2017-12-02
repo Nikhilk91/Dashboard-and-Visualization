@@ -250,10 +250,14 @@ Link: https://blogs.imf.org/2017/09/21/corruption-in-latin-america-taking-stock/
 
 Link: https://www.insightcrime.org/news/analysis/why-is-latin-america-so-corrupt/
 
-References for Visualization 4: 
+References for Visualization 4:
+
 Link1: http://data.uis.unesco.org/Index.aspx?queryid=242#
+
 Link2: https://blog.udemy.com/importance-of-school/
+
 Link3: https://www.enotes.com/homework-help/why-school-important-our-lives-407271
+
 Link4: https://edlab.tc.columbia.edu/blog/9886-Why-is-Education-So-Important-in-Our-Life
 
 ### VI. Learnings and Challenges:
