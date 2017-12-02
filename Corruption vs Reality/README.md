@@ -87,7 +87,7 @@ In this project we also added a possible solution to the problem of Corruption a
 ![Screenshot](https://user-images.githubusercontent.com/32223677/33367446-7abd9b0c-d4a3-11e7-98c9-c8024f7cfac3.png)
 
 ### IV.	Final Data Product:
-Visualization 1: Perception matches Reality
+#### Visualization 1: Perception matches Reality
 
 This visualization is to validate how CPI relates with the reality. The comparison of CPI with the percentage of people who have actually bribed is matching. For further analysis on affects of corruption we used CPI as a metric as this can be considered a good parameter to be used as it matches with the reality. The CPI correctly shows the level of corruption in different countries.
 
@@ -103,14 +103,17 @@ A further analysis has been done by the team to study the reasons behind this pa
  
 *From South Korea’s presidential scandal to Malaysia’s 1MDB fund, not many Asian countries have been able to avoid the smear of corruption. While our statistic looks at the entire region, the numbers for some individual countries are staggering—and suggest corruption is deeply-rooted in everyday life.
 One of the major reason for high corruption is the financial instability. “If everyone around you is poor or desperate and scrambling for the next dollar, you might think that what matters is money, not adhering to high-minded rules,” says David Hugh-Jones, an experimental economist at the University of East Anglia in Norwich, U.K. Political system like that of India is inherently corrupt and it is destroying the society’s moral fiber. Corruption is innate in such system of government because it fails to balance powers. People in high office are not innately corrupt; they become so because the system gives them 1) an elevated sense of their worth and 2) opportunity.*
+
 *Source:  http://www.sciencemag.org/news/2016/03/corrupt-societies-encourage-lying
           http://www.jonstquah.com/documents/Corruption%20in%20Singapore%20AJPA.pdf
           https://www.forbes.com/sites/tanvigupta/2017/03/13/asias-five-most-corrupt-countries/1#ac7b0246a985*
           
 *Bribery is essential for opening up economic opportunities to those who are normally cut off by the political elite’s stranglehold on the more profitable industries. The majority of Africans (58%) say that corruption has increased over the past year. Out of 28 governments, 18 are seen as completely failing to address corruption. people do not report bribery because they are scared of suffering retribution and think reporting mechanisms are ineffective. Many countries in the region have seen threats and violence against civil society, making it dangerous to operate and difficult to hold governments to account.*
+
 *Source: https://www.transparency.org/news/feature/corruption_in_africa_75_million_people_pay_bribes*
 
 *Corruption continues to make headlines in Latin America. Due to its geographical location, Central America, home to some of the CPI’s worst performers in the region, is a hub of drug trafficking and beset by criminal groups. It would be naïve to ignore the role of history in the region’s corruption landscape. Built on political systems skewed towards the needs of powerful oligarchies, which in many places continue to wield significant economic and political power today, corruption has permeated the region far longer than the drugs trade and would likely persist even in the face of organized crime’s demise.*
+
 *Source: https://www.insightcrime.org/news/analysis/why-is-latin-america-so-corrupt/
          https://blogs.imf.org/2017/09/21/corruption-in-latin-america-taking-stock/ *
 
