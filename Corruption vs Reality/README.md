@@ -203,7 +203,9 @@ On one hand corruption feeds on rent, which produce inefficient economic policie
 If we examine the relationship between perceived corruption level and economic growth rate across countries, we can see that growth rates diverge more for countries with high-level corruption. In other words, while many highly corrupt countries have low economic growth rates, there are countries that have achieved rapid economic growth under rampant governmental corruption. This at least suggests that some countries may achieve high economic performance despite high corruption.
  
 We also found a significantly positive impact of corruption on GDP growth in large East Asian countries. One explanation might be that a strong centralized government can limit the negative effects of bribery compared to a decentralized corrupt bureaucracy. The long-run estimates indicate that corruption has direct negative impact on per capita GDP. 
- 
+
+![Screenshot](https://user-images.githubusercontent.com/32223677/33511682-0efcaa60-d6d4-11e7-8750-5a7077410f72.png)
+
 ***
 ### Visualization 4: Education
 
