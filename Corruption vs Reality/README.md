@@ -12,6 +12,7 @@ Link1: Perception matches Reality
 https://public.tableau.com/profile/nikhil.kaushik#!/vizhome/Corruption_Perception_and_Reality/PerceptionandReality?publish=yes
 
 Link2: Corruption has adverse effect on human development
+
 https://public.tableau.com/profile/priyanka.n4310#!/vizhome/HumanDevelopmentIndex_19/Dashboard1?publish=yes
 
 
@@ -20,6 +21,8 @@ Link3: Countries with higher CPI have more stable and predictable GDP
 
 
 Link4: Educate people to eradicate corruption
+
+https://public.tableau.com/profile/embar.ravi.bhargav#!/vizhome/SchoolingyearsVSCorruptionPerceptionIndex/Dashboard3?publish=yes
 
 ##### Youtube Video:
 ***
