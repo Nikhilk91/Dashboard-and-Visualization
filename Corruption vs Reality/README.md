@@ -189,7 +189,7 @@ Advantages: In this visualization, we have plotted corruption perception index a
 ![Screenshot](https://user-images.githubusercontent.com/32223677/33511546-5f6da59c-d6d1-11e7-9383-ea8c843e5790.PNG)
 
 ***
-### Visualization 3: Countries with higher CPI have a stable GDP.
+### Visualization 3: Countries with higher CPI have more stable and predictable GDP
 
 Gross domestic product (GDP)
 
