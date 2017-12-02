@@ -232,6 +232,7 @@ a reason for corruption which is lack of education or less number of schooling y
 I want to mainly point out and show that countries which have more number of
 schooling years are less corrupted.
 
+![Screenshot](https://user-images.githubusercontent.com/32223677/33512151-d397b59a-d6de-11e7-9b34-ea07c0a446ef.png)
 
 Data source: http://data.uis.unesco.org/Index.aspx?queryid=242#
 
