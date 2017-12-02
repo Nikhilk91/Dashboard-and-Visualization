@@ -260,38 +260,39 @@ The point here is to show that countries which have more number of schooling yea
 Data source: http://data.uis.unesco.org/Index.aspx?queryid=242#
 
 ### V. About the final Data Product
-This Data product is a set of several visualization and covers the topic of **Corruption**, its affects and its causes.
-In this project the team has created several visuals to represent how different countries are perceived on the parameter of corruption and where they actually lies in reality using the parameter 'percentage of people who actually bribed' in the country. 
+This Data product is a set of several visualization and covers the topic of **Corruption**, its effects and its causes.
+In this project the team has created several visuals to represent how different countries are perceived on the parameter of corruption and where they actually lies in reality using the parameter 'percentage of people who actually bribed' in the country. Then a relationship has been shown between corruption and 'Human Development' and also between corruption and 'GDP'. This helped us in analyzing that corruption has a deep rooted effects on the society and the growth. Towards the end we have provided a solution to reduce the problem of corruption and that is 'Education'.
 
-Claim: Corruption has adverse effect on social, economic and human development
-Warrant
-Corruption affects the economic development of the country. Corrupted economies are just not able to function properly because corruption prevents the natural laws of the economy from functioning freely. As a result, corruption in a nation's political and economic operations causes its entire society to suffer. According to the World Bank, the average income in countries with a high level of corruption is about a third of that of countries with a low level of corruption. Also, the infant mortality rate in such countries is about 3 times higher and the literacy rate is 25% lower.  
+**Claim:** Corruption has adverse effect on social, economic and human development and its effects can be mitigated by educating people
+**Warrant:** Corruption affects the economic development of the country. Corrupted economies are just not able to function properly because corruption prevents the natural laws of the economy from functioning freely. As a result, corruption in a nation's political and economic operations causes its entire society to suffer. According to the World Bank, the average income in countries with a high level of corruption is about a third of that of countries with a low level of corruption. Also, the infant mortality rate in such countries is about 3 times higher and the literacy rate is 25% lower.  
  
 On a national scale, corruption means that resources that should go to community and national development are diverted, and so poverty and inequality are not addressed. Prolonged delays in prosecution, the inconsistent application of penalties to perpetrators, and the belief that upper income persons use their positions of class to extract benefits not afforded to persons of a lower socio-economic class only add to the perception of corruption. Persons of a lower socio-economic standing (the poor and the vulnerable) are denied access, privileges, and opportunities, and when fairness and justice are not being served at the various levels of society.
  
 In a system with corruption there is no quality of service. To demand quality one might need to pay for it. This is seen in many areas like municipality, electricity, distribution of relief funds etc. If a person has to purchase a like medicine, due to corruption in education then the candidate after completion of his course will not like to provide quality health service if there is not enough remuneration for his service. Further candidates who do not have the ability can also get into the same seat by purchasing it. So though he becomes a medical practitioner, he may not be competent enough.
  
-Backing
- 
-We have placed our warrant with reference to the articles below.
+**Backing:** We have placed our warrant with reference to the articles below.
 Source* https://www.investopedia.com/articles/investing/012215/how-corruption-affects-   emerging-economies.asp
 http://www.jamaicaobserver.com/columns/How-corruption-affects-human-development_17102577
 http://www.mindcontroversy.com/impact-effects-corruption-public-life-india/
  
-Qualifier
-We have taken the Corruption Perception Index, Gross Domestic Product, Average Schooling years, Human Development Index for all the countries for the year 2013. We have further grouped them based on continents for our study.
-
+**Qualifier:** We have taken the Corruption Perception Index, Gross Domestic Product, Average Schooling years, Human Development Index for all the countries for the year 2013. We have further grouped them based on continents for our study.
 
 ### V.	Road map with future features/enhancements
 * Add analysis to check why and how corruption became prevelant in certain areas of the world. Also, add predictive modelling to understand the possible future trend to see how the corruption can affect a region (will it increase or decrease).
 * Analyze the possible effect of erradicating corruption from a country. Although corruption is assumed to be a problem and a factor hindering growth, but it could potentially be needed in certain countries for the purpose of business and a smooth functioning of government bodies. In these countries corruption might be playing a vital role in growth of GDP.
 * Further analysis could be done to add more solution to this problem.
 
+### VI. Learnings and Challenges:
+* This project helped us in understanding what a data product means and how important it is to put all the pieces together to create an effective story.
+* To get better insight from the data, it is important to do a better data analysis.
+* Working in a team could be challenging and always adds to one's learning curve.
+* Time management is really important in every project. This project had a lot of pieces in it and was the one where all the pieces should fit together to make a good product.
+
 ***
 ### Additional Information
 ***
 
-### VI.	All the links:
+### VII.	All the links:
 
 Links related to visualization 1, explaining the **,'Reason behind corruption in different regions'**:
 
@@ -320,9 +321,3 @@ Link2: https://blog.udemy.com/importance-of-school/
 Link3: https://www.enotes.com/homework-help/why-school-important-our-lives-407271
 
 Link4: https://edlab.tc.columbia.edu/blog/9886-Why-is-Education-So-Important-in-Our-Life
-
-### VI. Learnings and Challenges:
-* This project helped us in understanding what a data product means and how important it is to put all the pieces together to create an effective story.
-* To get better insight from the data, it is important to do a better data analysis.
-* Working in a team could be challenging and always adds to one's learning curve.
-* Time management is really important in every project. This project had a lot of pieces in it and was the one where all the pieces should fit together to make a good product.
