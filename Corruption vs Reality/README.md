@@ -208,6 +208,18 @@ We also found a significantly positive impact of corruption on GDP growth in lar
 
 ***
 ### Visualization 4: Education
+Why Education as a metric?
+Education is the most important thing in one’s life. Being well educated makes one a
+better, responsible, well mannered, ethical human being.
+If one does not have adequate schooling experience, they are more likely to fall into the
+wrong path of corruption.
+Since we are talking about corruption I want to highlight one of the factors that could be
+a reason for corruption which is lack of education or less number of schooling years.
+I want to mainly point out and show that countries which have more number of
+schooling years are less corrupted.
+
+
+Data source: http://data.uis.unesco.org/Index.aspx?queryid=242#
 
 ### V. About the final Data Product
 This Data product is a set of several visualization and covers the topic of **Corruption**, its affects and its causes.
@@ -238,6 +250,11 @@ Link: https://blogs.imf.org/2017/09/21/corruption-in-latin-america-taking-stock/
 
 Link: https://www.insightcrime.org/news/analysis/why-is-latin-america-so-corrupt/
 
+References for Visualization 4: 
+Link1: http://data.uis.unesco.org/Index.aspx?queryid=242#
+Link2: https://blog.udemy.com/importance-of-school/
+Link3: https://www.enotes.com/homework-help/why-school-important-our-lives-407271
+Link4: https://edlab.tc.columbia.edu/blog/9886-Why-is-Education-So-Important-in-Our-Life
 
 ### VI. Learnings and Challenges:
 * This project helped us in understanding what a data product means and how important it is to put all the pieces together to create an effective story.
