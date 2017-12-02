@@ -132,6 +132,14 @@ Laid down a project plan to be followed. The project plan helps in tracking the 
 
 ![Screenshot](https://user-images.githubusercontent.com/32223677/33367446-7abd9b0c-d4a3-11e7-98c9-c8024f7cfac3.png)
 
+**Day 7:**
+
+* **Activity 1:** Relating all the visualization together to create a story out of it.
+
+* **Activity 2:** Created different groups based on continents. This helped us in showing a trend that the corruption is prevalent in the regions of Asia, Africa and South America. This helped in narrowing down the result to better support the story and the claim.
+
+**Day 8-10:** Finalizing everything and drafting everything in a document. This document is really helpful to see how this  project moved from the beginning till the end. This document is a guide on what is done in this project and all the information regarding the chain of thoughts the team had during the course of creation of this project.
+
 ### IV.	Final Data Product:
 #### Visualization 1: Perception matches Reality
 
