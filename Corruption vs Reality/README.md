@@ -7,14 +7,19 @@
 
 ##### Tableau Visual: 
 
-Link1: 
+Link1: Perception matches Reality
+
 https://public.tableau.com/profile/nikhil.kaushik#!/vizhome/Corruption_Perception_and_Reality/PerceptionandReality?publish=yes
 
-Link2:
+Link2: Corruption has adverse effect on human development
 
-Link3:
 
-Link4:
+
+Link3: Countries with higher CPI have more stable and predictable GDP
+
+
+
+Link4: Educate people to eradicate corruption
 
 ##### Youtube Video:
 ***
@@ -213,7 +218,7 @@ We also found a significantly positive impact of corruption on GDP growth in lar
 ![Screenshot](https://user-images.githubusercontent.com/32223677/33511682-0efcaa60-d6d4-11e7-8750-5a7077410f72.png)
 
 ***
-### Visualization 4: Education
+### Visualization 4: Educate people to eradicate corruption
 Why Education as a metric?
 Education is the most important thing in one’s life. Being well educated makes one a
 better, responsible, well mannered, ethical human being.
