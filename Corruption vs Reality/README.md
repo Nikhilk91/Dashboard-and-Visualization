@@ -223,14 +223,10 @@ We also found a significantly positive impact of corruption on GDP growth in lar
 ***
 ### Visualization 4: Educate people to eradicate corruption
 Why Education as a metric?
-Education is the most important thing in one’s life. Being well educated makes one a
-better, responsible, well mannered, ethical human being.
-If one does not have adequate schooling experience, they are more likely to fall into the
-wrong path of corruption.
-Since we are talking about corruption I want to highlight one of the factors that could be
-a reason for corruption which is lack of education or less number of schooling years.
-I want to mainly point out and show that countries which have more number of
-schooling years are less corrupted.
+Education is the most important thing in one’s life. Being well educated makes one a better, responsible, well mannered and an ethical human being.
+If one does not have adequate schooling experience, they are more likely to fall into the wrong path of corruption.
+Since we are talking about corruption we want to highlight one of the factors that could be a reason for corruption which is lack of education or less number of schooling years.
+The point here is to show that countries which have more number of schooling years are less corrupted. In other words, education can be the possible solution to the problem of corruption.
 
 ![Screenshot](https://user-images.githubusercontent.com/32223677/33512151-d397b59a-d6de-11e7-9b34-ea07c0a446ef.png)
 
