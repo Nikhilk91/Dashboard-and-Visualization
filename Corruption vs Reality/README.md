@@ -90,7 +90,12 @@ In this project we also added a possible solution to the problem of Corruption a
 3. What could be the possible measures to eradicate corruption from the society.
 
 * **Activity 2:**
-Laid down a project plan to be followed. 
+Laid down a project plan to be followed. The project plan helps in tracking the pace and the pieces of the plan.
+
+**Day 3:**
+
+* **Activity 1:** The team decided to use **5 W's** for this data product. This appraoch helped us in answering very crucial questions at a very initial stage. This also helped us in understanding what is needed from this project and how we are going to approach it. Understanding the audience and their requirements is of high importance in any project, as they are the once who will be making decisions using this product.
+
 
 **Advantages:**
 * This visualization is part of a Minimal Viable product and is a quick way to check with the user if this is what he/she is looking for.
@@ -144,6 +149,7 @@ One of the major reason for high corruption is the financial instability. “If 
 #### Visualization 2: Corruption has adverse effect on human development
 
 Human Development Index(HDI)
+
 The World Health Organization (WHO) defines health as a state of complete physical, mental and social well-being. Along with crime and violence, corruption is seen as the most serious challenge affecting health of most of the countries. Corruption exists when people abuse the power that is entrusted to them     in order to benefit them personally. Lack of transparency, secret dealings, bribery continue to ravage our social, economic and human development. It is causing a serious loss in the economy, governance efficiency, quality of life, trust in public institutions. Leading areas in corruption are education and health care, corruption in these areas directly impairs the quality of human capital.
 
 Corruption increases the costs of providing education and health services. It also affects the average life expectancy. Corruption has a greater influence on the income of the poorest segment of society, in other words it is reflected in the first place on the poor. The tax burden is being shifted on the poor, social programs funds aimed at reducing the income differentiation are being stolen as well.
@@ -153,6 +159,22 @@ It reduces the rate of economic growth, reduce the public expenditure on educati
 Hence, we need to see the impact of corruption on overall quality of human capital. The best approach to do this is the index method. The index method is used to bring the various elements of human capital to a single coordinate system. The most famous index that is used in the practice of evaluation of human capital is the Human Development Index (HDI).
 
 Advantages: In this visualization, we have plotted corruption perception index against human development index. We have divided the countries into continents in order to get a better understanding and to analyze the reasons behind corruption. Blue color represents Asia, Africa and South America whereas red represents North America and Europe. We can clearly see the trend here, the Asian, African and South American countries have very low corruption perception index which indicates a very high corruption. Clearly, they have a very low human development index. For North America, Europe and Oceania, as the corruption perception index is increasing, i.e. as the corruption is decreasing, we get to see a growing trend in human development. The visualization provides the platform to study the reasons and come up with an action plan to eradicate corruption.  
+
+### Visualization 3: 
+
+Gross domestic product (GDP)
+
+Gross domestic product (GDP) is the total value of everything produced by all the people and companies in the country. It doesn't matter if they are citizens or foreign-owned companies. If they are located within the country's boundaries, the government counts their production as GDP. It is the best way to measure a country's economy. According to the World Bank, the average income in countries with a high level of corruption is about a third of that of countries with a low level of corruption. Hence, we thought of comparing the effect of corruption on GDP.
+ 
+Corruption has been studied as a problem of political, economic, cultural and moral underdevelopment. The World Bank and IMF presume that corruption has significantly negative effects on economic growth. Corruption undermines development by distorting the rule of law and weakening the institutional foundation on which economic growth depends.
+ 
+The mutual causality between corruption and GDP level is negative, which means a higher level of corruption results in a lower level of GDP and vice versa.
+On one hand corruption feeds on rent, which produce inefficient economic policies, also corruption often works as a tax on factor accumulation and on investment that hinders economic development. On the other hand, high levels of national income may bring greater willingness to combat corruption.
+ 
+If we examine the relationship between perceived corruption level and economic growth rate across countries, we can see that growth rates diverge more for countries with high-level corruption. In other words, while many highly corrupt countries have low economic growth rates, there are countries that have achieved rapid economic growth under rampant governmental corruption. This at least suggests that some countries may achieve high economic performance despite high corruption.
+ 
+We also found a significantly positive impact of corruption on GDP growth in large East Asian countries. One explanation might be that a strong centralized government can limit the negative effects of bribery compared to a decentralized corrupt bureaucracy. The long-run estimates indicate that corruption has direct negative impact on per capita GDP. 
+ 
 
 ### V. About the final Data Product
 This Data product is a set of several visualization and covers the topic of **Corruption**, its affects and its causes.
