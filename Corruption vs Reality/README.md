@@ -154,7 +154,7 @@ Then the second visualization shows how the corruption has been affecting the Hu
 ### Additional Information
 ***
 
-### VII.	All the links:
+### VI.	All the links:
 
 Links related to visualization 1, explaining the **,'Reason behind corruption in different regions'**:
 
@@ -167,3 +167,10 @@ Link: https://www.forbes.com/sites/tanvigupta/2017/03/13/asias-five-most-corrupt
 Link: https://blogs.imf.org/2017/09/21/corruption-in-latin-america-taking-stock/
 
 Link: https://www.insightcrime.org/news/analysis/why-is-latin-america-so-corrupt/
+
+
+### VI. Learnings and Challenges:
+* This project helped us in understanding what a data product means and how important it is to put all the pieces together to create an effective story.
+* To get better insight from the data, it is important to do a better data analysis.
+* Working in a team could be challenging and always adds to one's learning curve.
+* Time management is really important in every project. This project had a lot of pieces in it and was the one where all the pieces should fit together to make a good product.
