@@ -205,20 +205,49 @@ Advantages: In this visualization, we have plotted corruption perception index a
 ***
 ### Visualization 3: Countries with higher CPI have more stable and predictable GDP
 
-Gross domestic product (GDP)
+Gross domestic product (GDP) is the total value of everything produced by all the people and companies in the country. It doesn't matter if they are citizens or foreign-owned companies. If they are located within the country's boundaries, the government counts their production as GDP. It is the best way to measure a country's economy. According to the World Bank, the average income in countries with a high level of corruption is about a third of that of countries with a low level of corruption. Hence, we thought of comparing the effect of corruption on GDP.
 
-Gross domestic product (GDP) is the total value of everything produced by all the people and companies in the country. It doesn't matter if they are citizens or foreign-owned companies. If they are located within the country's boundaries, the government counts their production as GDP. It is the best way to measure a country's economy. According to the World Bank, the average income in countries with a high level of corruption is about a third of that of countries with a low level of corruption. Hence, we thought of comparing the effect of corruption on GDP.
- 
 Corruption has been studied as a problem of political, economic, cultural and moral underdevelopment. The World Bank and IMF presume that corruption has significantly negative effects on economic growth. Corruption undermines development by distorting the rule of law and weakening the institutional foundation on which economic growth depends.
- 
-The mutual causality between corruption and GDP level is negative, which means a higher level of corruption results in a lower level of GDP and vice versa.
-On one hand corruption feeds on rent, which produce inefficient economic policies, also corruption often works as a tax on factor accumulation and on investment that hinders economic development. On the other hand, high levels of national income may bring greater willingness to combat corruption.
- 
-If we examine the relationship between perceived corruption level and economic growth rate across countries, we can see that growth rates diverge more for countries with high-level corruption. In other words, while many highly corrupt countries have low economic growth rates, there are countries that have achieved rapid economic growth under rampant governmental corruption. This at least suggests that some countries may achieve high economic performance despite high corruption.
- 
-We also found a significantly positive impact of corruption on GDP growth in large East Asian countries. One explanation might be that a strong centralized government can limit the negative effects of bribery compared to a decentralized corrupt bureaucracy. The long-run estimates indicate that corruption has direct negative impact on per capita GDP. 
 
-![Screenshot](https://user-images.githubusercontent.com/32223677/33511682-0efcaa60-d6d4-11e7-8750-5a7077410f72.png)
+**Intermediate version:**
+Tableau link - https://public.tableau.com/profile/neha.goushal#!/vizhome/CorruptionaffectGDP/Intermediate?publish=yes
+
+![Screenshot]()
+
+The mutual causality between corruption and GDP level is negative, which means a higher level of corruption results in a lower level of GDP and vice versa. On one hand corruption feeds on rent, which produce inefficient economic policies, also corruption often works as a tax on factor accumulation and on investment that hinders economic development. On the other hand, high levels of national income may bring greater willingness to combat corruption.
+
+Advantages:
+- This visualization helps us to see a trend among the countries.
+- The GDP measure of a country for a particular year does not depict the true picture. 
+
+Disadvantages:
+- There is double encoding in this visual because we have used colors to encode CPI again.
+- There are not a lot of countries on the higher end of GDP among less corrupt countries.
+
+**Final version:**
+Tableau link – https://public.tableau.com/profile/neha.goushal#!/vizhome/CorruptionaffectGDP/GDPvsCPI?publish=yes
+
+![Screenshot]()
+
+The GDP for the countries on the left is fluctuating a lot and their GDP cannot be predicted but we can predict the rate of GDP growth for the countries on the right. For more corrupt countries, GDP fluctuates because corruption could hinder or help these countries in growing faster.
+
+If we examine the relationship between perceived corruption level and economic growth rate across countries, we can see that growth rates diverge more for countries with high-level corruption. In other words, while many highly corrupt countries have low economic growth rates, there are countries that have achieved rapid economic growth under rampant governmental corruption. This at least suggests that some countries may achieve high economic performance despite high corruption.
+
+We also found a significantly positive impact of corruption on GDP growth in large East Asian countries. One explanation might be that a strong centralized government can limit the negative effects of bribery compared to a decentralized corrupt bureaucracy. The long-run estimates indicate that corruption has direct negative impact on per capita GDP. 
+
+Advantages:
+- The color coding has been used to depict the regions.
+- This lets us analyze the problem on regional basis rather than country basis.
+- We have considered percent change in GDP which reflects a better picture than the exact GDP value for a year.
+
+Disadvantages:
+- There is no strong and clear trend.
+- This has the percent change of GDP only over one year, which again is not very effective.
+- Also, the CPI value is for the year 2013 and does not help us in concluding a strong claim.
+
+References:
+http://www.tandfonline.com/doi/full/10.1080/1331677X.2016.1169701
+https://www.investopedia.com/articles/investing/012215/how-corruption-affects-emerging-economies.asp
 
 ***
 ### Visualization 4: Educate people to eradicate corruption
