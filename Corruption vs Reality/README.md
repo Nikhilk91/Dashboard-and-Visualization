@@ -213,7 +213,7 @@ Corruption has been studied as a problem of political, economic, cultural and mo
 
 Tableau link - https://public.tableau.com/profile/neha.goushal#!/vizhome/CorruptionaffectGDP/Intermediate?publish=yes
 
-![Screenshot]()
+![Screenshot](https://user-images.githubusercontent.com/32223677/33512461-ddf2b204-d6e5-11e7-81ec-d27baa48c45f.png)
 
 The mutual causality between corruption and GDP level is negative, which means a higher level of corruption results in a lower level of GDP and vice versa. On one hand corruption feeds on rent, which produce inefficient economic policies, also corruption often works as a tax on factor accumulation and on investment that hinders economic development. On the other hand, high levels of national income may bring greater willingness to combat corruption.
 
@@ -229,7 +229,7 @@ Disadvantages:
 
 Tableau link – https://public.tableau.com/profile/neha.goushal#!/vizhome/CorruptionaffectGDP/GDPvsCPI?publish=yes
 
-![Screenshot]()
+![Screenshot](https://user-images.githubusercontent.com/32223677/33512458-c797f1e0-d6e5-11e7-9f3b-b135042dfe37.png)
 
 The GDP for the countries on the left is fluctuating a lot and their GDP cannot be predicted but we can predict the rate of GDP growth for the countries on the right. For more corrupt countries, GDP fluctuates because corruption could hinder or help these countries in growing faster.
 
