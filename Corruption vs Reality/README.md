@@ -116,6 +116,19 @@ One of the major reason for high corruption is the financial instability. “If 
 
 *Source: https://www.insightcrime.org/news/analysis/why-is-latin-america-so-corrupt/
          https://blogs.imf.org/2017/09/21/corruption-in-latin-america-taking-stock/*
+         
+#### Visualization 2: Corruption has adverse effect on human development
+
+Human Development Index(HDI)
+The World Health Organization (WHO) defines health as a state of complete physical, mental and social well-being. Along with crime and violence, corruption is seen as the most serious challenge affecting health of most of the countries. Corruption exists when people abuse the power that is entrusted to them     in order to benefit them personally. Lack of transparency, secret dealings, bribery continue to ravage our social, economic and human development. It is causing a serious loss in the economy, governance efficiency, quality of life, trust in public institutions. Leading areas in corruption are education and health care, corruption in these areas directly impairs the quality of human capital.
+
+Corruption increases the costs of providing education and health services. It also affects the average life expectancy. Corruption has a greater influence on the income of the poorest segment of society, in other words it is reflected in the first place on the poor. The tax burden is being shifted on the poor, social programs funds aimed at reducing the income differentiation are being stolen as well.
+Nowadays human capital has become, both in theory and in practice, an intense leading factor in the development, the foundation of the GDP growth, combined with innovations and new technologies.
+It reduces the rate of economic growth, reduce the public expenditure on education and health care, social stratification of the population, informal employment development.
+
+Hence, we need to see the impact of corruption on overall quality of human capital. The best approach to do this is the index method. The index method is used to bring the various elements of human capital to a single coordinate system. The most famous index that is used in the practice of evaluation of human capital is the Human Development Index (HDI).
+
+Advantages: In this visualization, we have plotted corruption perception index against human development index. We have divided the countries into continents in order to get a better understanding and to analyze the reasons behind corruption. Blue color represents Asia, Africa and South America whereas red represents North America and Europe. We can clearly see the trend here, the Asian, African and South American countries have very low corruption perception index which indicates a very high corruption. Clearly, they have a very low human development index. For North America, Europe and Oceania, as the corruption perception index is increasing, i.e. as the corruption is decreasing, we get to see a growing trend in human development. The visualization provides the platform to study the reasons and come up with an action plan to eradicate corruption.  
 
 ### V. About the final Data Product
 This Data product is a set of several visualization and covers the topic of **Corruption**, its affects and its causes.
