@@ -271,10 +271,18 @@ On a national scale, corruption means that resources that should go to community
 In a system with corruption there is no quality of service. To demand quality one might need to pay for it. This is seen in many areas like municipality, electricity, distribution of relief funds etc. If a person has to purchase a like medicine, due to corruption in education then the candidate after completion of his course will not like to provide quality health service if there is not enough remuneration for his service. Further candidates who do not have the ability can also get into the same seat by purchasing it. So though he becomes a medical practitioner, he may not be competent enough.
  
 **Backing:** We have placed our warrant with reference to the articles below.
-Source* https://www.investopedia.com/articles/investing/012215/how-corruption-affects-emerging-economies.asp
-http://www.jamaicaobserver.com/columns/How-corruption-affects-human-development_17102577
-http://www.mindcontroversy.com/impact-effects-corruption-public-life-india/
- 
+* Article 1: https://www.investopedia.com/articles/investing/012215/how-corruption-affects-emerging-economies.asp
+
+The above link is of an article from investopedia which discusses about the effects of corruption on the emerging economies.
+
+* Article 2: http://www.jamaicaobserver.com/columns/How-corruption-affects-human-development_17102577
+
+The article 2 is about how corruption affects the human development. 
+
+* Article 3: http://www.mindcontroversy.com/impact-effects-corruption-public-life-india/
+
+The article 3 is about how corruption affects the public life in India. 
+
 **Qualifier:** We have taken the Corruption Perception Index, Gross Domestic Product, Average Schooling years, Human Development Index for all the countries for the year 2013. We have further grouped them based on continents for our study.
 
 ### V.	Road map with future features/enhancements
