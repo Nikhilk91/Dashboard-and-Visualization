@@ -76,6 +76,21 @@ In this project we also added a possible solution to the problem of Corruption a
 ![Screenshot](https://user-images.githubusercontent.com/32223677/33506542-22adedbe-d6a5-11e7-9cd1-01e4c6598da8.png)
 
 ### III.	Several intermediate visualization prototypes (This section encompasses detailed “Making-of” and Intermediate Visuals)
+**Day 1:**
+
+* **Activity 1:** We had a team meeting to discuss what is needed from the project and what a 'Data Product' means. We watched a video (Link: https://www.youtube.com/watch?v=OuRINNSDtlM) to understand it better. 
+
+**Outcome:** The team was clear with what this project is expecting. The outcome of this project will be a story represented through different visualization. 
+
+**Day 2:**
+
+* **Activity 1:** Finalized the topic for this project, which is 'Corruption'. We discussed about different parameters on which corruption can be measured. We formulated an outline of our story, this included the following:
+1. Parameters on which corruption is measured.
+2. How the corruption is affecting the growth of people and countries
+3. What could be the possible measures to eradicate corruption from the society.
+
+* **Activity 2:**
+Laid down a project plan to be followed. 
 
 **Advantages:**
 * This visualization is part of a Minimal Viable product and is a quick way to check with the user if this is what he/she is looking for.
