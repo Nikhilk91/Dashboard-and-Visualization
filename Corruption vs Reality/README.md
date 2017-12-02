@@ -263,7 +263,24 @@ Data source: http://data.uis.unesco.org/Index.aspx?queryid=242#
 This Data product is a set of several visualization and covers the topic of **Corruption**, its affects and its causes.
 In this project the team has created several visuals to represent how different countries are perceived on the parameter of corruption and where they actually lies in reality using the parameter 'percentage of people who actually bribed' in the country. 
 
-Then the second visualization shows how the corruption has been affecting the Human development. This a graph showing Human Development Index and Corruption Perception Index.
+Claim: Corruption has adverse effect on social, economic and human development
+Warrant
+Corruption affects the economic development of the country. Corrupted economies are just not able to function properly because corruption prevents the natural laws of the economy from functioning freely. As a result, corruption in a nation's political and economic operations causes its entire society to suffer. According to the World Bank, the average income in countries with a high level of corruption is about a third of that of countries with a low level of corruption. Also, the infant mortality rate in such countries is about 3 times higher and the literacy rate is 25% lower.  
+ 
+On a national scale, corruption means that resources that should go to community and national development are diverted, and so poverty and inequality are not addressed. Prolonged delays in prosecution, the inconsistent application of penalties to perpetrators, and the belief that upper income persons use their positions of class to extract benefits not afforded to persons of a lower socio-economic class only add to the perception of corruption. Persons of a lower socio-economic standing (the poor and the vulnerable) are denied access, privileges, and opportunities, and when fairness and justice are not being served at the various levels of society.
+ 
+In a system with corruption there is no quality of service. To demand quality one might need to pay for it. This is seen in many areas like municipality, electricity, distribution of relief funds etc. If a person has to purchase a like medicine, due to corruption in education then the candidate after completion of his course will not like to provide quality health service if there is not enough remuneration for his service. Further candidates who do not have the ability can also get into the same seat by purchasing it. So though he becomes a medical practitioner, he may not be competent enough.
+ 
+Backing
+ 
+We have placed our warrant with reference to the articles below.
+Source* https://www.investopedia.com/articles/investing/012215/how-corruption-affects-   emerging-economies.asp
+http://www.jamaicaobserver.com/columns/How-corruption-affects-human-development_17102577
+http://www.mindcontroversy.com/impact-effects-corruption-public-life-india/
+ 
+Qualifier
+We have taken the Corruption Perception Index, Gross Domestic Product, Average Schooling years, Human Development Index for all the countries for the year 2013. We have further grouped them based on continents for our study.
+
 
 ### V.	Road map with future features/enhancements
 * Add analysis to check why and how corruption became prevelant in certain areas of the world. Also, add predictive modelling to understand the possible future trend to see how the corruption can affect a region (will it increase or decrease).
