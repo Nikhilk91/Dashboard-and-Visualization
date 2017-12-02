@@ -98,6 +98,15 @@ Laid down a project plan to be followed. The project plan helps in tracking the 
 
 * **Activity 1:** The team decided to use **5 W's** for this data product. This appraoch helped us in answering very crucial questions at a very initial stage. This also helped us in understanding what is needed from this project and how we are going to approach it. Understanding the audience and their requirements is of high importance in any project, as they are the once who will be making decisions using this product.
 
+**Day 4:**
+
+* **Activity 1:** Deciding on the metrics to be used which can provide intriguing results. Comparing the effects of corruption on the human development, a countries GDP and FDI seems interesting. Also, the relationship between education and corruption can also give us a possible solution to this problem.
+
+* **Activity 2:** The process of data extraction and analysis is really important to come up with a good visualization. The team members did some individual analysis and the results were then discussed with the team. All of the data collected from different sources were combined together so as to make it consistent.
+
+**Day 5:**
+
+* **Activity 1:** Creating a Minimal Viable Product to present to the customer. This helps in checking what exactly the customer is expecting and do the team working in the right direction or not. It is always better to understand the perpective of the customers and take several feedbacks from them. This process helps in eliminating any sort of confusion in the beginning stages of a project. Also, it helps in reducing any scope creep towards the end.
 
 **Advantages:**
 * This visualization is part of a Minimal Viable product and is a quick way to check with the user if this is what he/she is looking for.
@@ -177,6 +186,8 @@ If we examine the relationship between perceived corruption level and economic g
  
 We also found a significantly positive impact of corruption on GDP growth in large East Asian countries. One explanation might be that a strong centralized government can limit the negative effects of bribery compared to a decentralized corrupt bureaucracy. The long-run estimates indicate that corruption has direct negative impact on per capita GDP. 
  
+ 
+### Visualization 4: Education
 
 ### V. About the final Data Product
 This Data product is a set of several visualization and covers the topic of **Corruption**, its affects and its causes.
