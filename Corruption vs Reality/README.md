@@ -293,6 +293,12 @@ Link: https://blogs.imf.org/2017/09/21/corruption-in-latin-america-taking-stock/
 
 Link: https://www.insightcrime.org/news/analysis/why-is-latin-america-so-corrupt/
 
+References for Visualization 3:
+
+Link1: http://www.tandfonline.com/doi/full/10.1080/1331677X.2016.1169701
+
+Link2: https://www.investopedia.com/articles/investing/012215/how-corruption-affects-emerging-economies.asp
+
 References for Visualization 4:
 
 Link1: http://data.uis.unesco.org/Index.aspx?queryid=242#
