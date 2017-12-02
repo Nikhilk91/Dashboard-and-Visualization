@@ -18,7 +18,7 @@ https://public.tableau.com/profile/priyanka.n4310#!/vizhome/HumanDevelopmentInde
 
 Link3: Countries with higher CPI have more stable and predictable GDP
 
-
+https://public.tableau.com/profile/neha.goushal#!/vizhome/CorruptionaffectGDP/GDPvsCPI?publish=yes
 
 Link4: Educate people to eradicate corruption
 
