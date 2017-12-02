@@ -117,6 +117,12 @@ Laid down a project plan to be followed. The project plan helps in tracking the 
 
 ![Screenshot](https://user-images.githubusercontent.com/32223677/33509171-23f37aea-d6b4-11e7-928d-76713da275db.png)
 
+* **Activity 2:** Met the professor to understand his perspective on the MVP we created. This meeting helped us in understanding how we can group the data based on the continents and see a trend in the data. Also, analyzing the factors such as effect of corruption on the Foreign Direct Investment (FDI) could be really interesting.
+
+**Day 6:**
+
+* **Activity 1:** Improving the visualization so as to provide better insights. 
+
 **Advantages:**
 * This visualization helps to see the trend and relationship between Corruption Perception Index and Reality.
 * This helped in proving that CPI matches Reality.
