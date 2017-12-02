@@ -1,4 +1,4 @@
-# Data Product : Corruption, its effects and solution.
+# Data Product : Corruption, its effects and solution
 
 ##### Date: 2nd Nov 2017                                                                                                                                                    
 ##### Professor: Michael Schermann
